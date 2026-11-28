@@ -1,0 +1,3587 @@
+{
+ "updated": "2026-11-28 16:05",
+ "sources": [
+  "鉅亨 台股",
+  "鉅亨 頭條",
+  "鉅亨 國際股",
+  "鉅亨 美股",
+  "鉅亨 區塊鏈",
+  "經濟日報 證券",
+  "工商時報",
+  "CMoney",
+  "富途",
+  "Google 加密",
+  "動區動趨",
+  "鏈新聞",
+  "吳說區塊鏈",
+  "Odaily",
+  "CoinDesk",
+  "Cointelegraph",
+  "The Block",
+  "Decrypt",
+  "Google 台股",
+  "Google 美股",
+  "CNN Investing",
+  "Morningstar",
+  "TradingView 加密",
+  "TradingView 美股"
+ ],
+ "quotes": [
+  {
+   "sym": "TWSE:IX0001",
+   "name": "台股加權",
+   "price": 39308.08,
+   "chg": 0.4
+  },
+  {
+   "sym": "TAIFEX:TXF1!",
+   "name": "台指期",
+   "price": 39153,
+   "chg": -0.5
+  },
+  {
+   "sym": "DJ:DJI",
+   "name": "道瓊",
+   "price": 50774.94,
+   "chg": 1.18
+  },
+  {
+   "sym": "SP:SPX",
+   "name": "S&P 500",
+   "price": 7297.49,
+   "chg": 1.6
+  },
+  {
+   "sym": "NASDAQ:IXIC",
+   "name": "那斯達克",
+   "price": 24129.5005,
+   "chg": 2.31
+  },
+  {
+   "sym": "NASDAQ:SOX",
+   "name": "費城半導體",
+   "price": 9186.7059,
+   "chg": 4.69
+  },
+  {
+   "sym": "TVC:NI225",
+   "name": "日經 225",
+   "price": 58710.89,
+   "chg": 2.11
+  },
+  {
+   "sym": "HSI:HSI",
+   "name": "恒生指數",
+   "price": 22694.77,
+   "chg": 2.11
+  },
+  {
+   "sym": "TVC:VIX",
+   "name": "VIX",
+   "price": 23.81,
+   "chg": -15.81
+  },
+  {
+   "sym": "TVC:US02Y",
+   "name": "美2年債殖利率",
+   "price": 4.71,
+   "chg": 1.29
+  },
+  {
+   "sym": "TVC:US10Y",
+   "name": "美10年債殖利率",
+   "price": 4.936,
+   "chg": 1.48
+  },
+  {
+   "sym": "TVC:DXY",
+   "name": "美元指數",
+   "price": 104.035,
+   "chg": 0.25
+  },
+  {
+   "sym": "FX_IDC:USDTWD",
+   "name": "美元/台幣",
+   "price": 32.977,
+   "chg": 0.12
+  },
+  {
+   "sym": "NYMEX:CL1!",
+   "name": "WTI 原油",
+   "price": 83.08,
+   "chg": -0.72
+  },
+  {
+   "sym": "TVC:GOLD",
+   "name": "黃金",
+   "price": 3653.6,
+   "chg": 1.79
+  },
+  {
+   "sym": "BITSTAMP:BTCUSD",
+   "name": "比特幣",
+   "price": 59708.34,
+   "chg": -0.27
+  }
+ ],
+ "items": [
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "網路瘋傳「押中黃仁勳回歸」賺 3.12 億美元，真查沒有這筆交易",
+   "url": "https://www.blocktempo.com/nvidia-viral-call-options-312-million-claim-lacks-trading-records/",
+   "t": 1795852864
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "GCSA威脅情報: 惡意MCP軟體包竊取AI代理密鑰, Drupal站點接管漏洞已遭在野利用",
+   "url": "https://news.cnyes.com/news/id/6674488",
+   "t": 1795852831
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "Vitalik：EIP-8037相关投诉合理且正当，Glamsterdam升级不应仓促推进",
+   "url": "https://www.panewslab.com/zh/articles/01a2211f-fe50-72fe-995a-6930d0177e5d",
+   "t": 1795852074
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "外資狂賣3.49兆、國安基金砸千億護盤！謝金河斷言台股選後走向 曝「這大咖」喊買進",
+   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOV3phczFack1VcFlsb0Q1ZlJ1eWFPXzA5dmhaRHZmVkZtMUduV3FpemI3SGxVRUNNRXVENTdveWhkZXRuQVNvT05iVlRLUU1QM05DaENaTGo3OGRyTHo2WFpDZjNtQm1mNDJtOGc1WVQ3YXFaUjVnUlhnMW1iSUprNnBVUXozRTFkbDcyTW1fLVA5aXB2MlRtNVhJWkluSmQzT1JZOFpfS1M4cVdBU1c1YnE3Y0FtUS1xTkx2SjdQMmlWUkMyMUo5V1Y2QWFOM25PV1c2Y0hzXzVlcTBuejYwU0c4cGp3dkViQUZvOGhOZkJqcTlfTXRUbU1kc096R2JwdVRiakdVM0tOOVdyaXlfbnNYQTZOendoNW11R2hfajUwelhCUGp2YVdCUVVZRUhGaFplMndlNVFubGtvRWJiMlVvZ05vT19NVzlGckhkX0JsMjJ1RnE2cmZiRGIycEw5QzZfY2dMVFFkRWViV0JNQWctalc4WHh5SGZzYzU2REdHSFdacFNfdWx2aGdGeXkyRVp3ZEVDdUE4N2Za?oc=5",
+   "t": 1795852061
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+   "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795851780
+  },
+  {
+   "src": "Investing.com 香港 - 股市報價& 財經新聞",
+   "cat": "crypto",
+   "title": "特朗普家族加密貨幣項目急挫55%，旗下穩定幣USD1亦出現脫鈎跡象 作者 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yX202STFWZno2Q3FsUE9fbU51TjRqNTFLRlVia1pjaVpxZUZjOEMydzR2TmhQUzY5RDZfYXVBczJKLVo4b2tJZEg1Nl92TEM0MmR3WWs0T0Z6NFFXbFdLNUNhQWpmVHh0NU54eUVhcVl6ak0?oc=5",
+   "t": 1795851675
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "全球電子零件通路龍頭年漲55% 逆勢擊敗科技類股大盤",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOb241Z1JEcVR1bEd1ZklzbXVfM0JZNGR0X0JUMWhsNlhyZzNEa1N6Z2ZqdktVN256VlBNYzVYcl9MOWNuYjdYeFdKakJWNUF0ZkNsUkM5ZDZjVXZtT0pSZE1udnQzdFdyLWlIN09Dd1FudVBIMDMwc1I2d3d1d0Yzb2JVNVlCNk93MnRDWXNfYVNZcFNZNVdKX2VxUWFHQUFka3NCRHZlbElRdGE3WjBlRmNGbEs1MWZnR0NDcmxNSEZqMWtsLUpGTXdwdUx0Q1RXWlJKQVEtOXlTMnBtSndleHRuUFNtUTQyeVpYZlJ3c3M1OTFpamc5NjhkcTcxSVI5amhtQ2hQY1hydnNENWNQWlpUSDFaSzQ0VTQ3UWtQTHBDNTZROVpmM2dBaHdWUk16OE9XSHM3TXJaZE1oOXF2a1d1MjRfNEJGXzVwZUI4bmtjcjgwUFRjRm9VMThNZW1ZRDAzcDFQWQ?oc=5",
+   "t": 1795851654
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "何一：行业此阶段最大的问题是资产空心化，币安要维护生态平衡",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539887",
+   "t": 1795851635
+  },
+  {
+   "src": "BigGo 財經",
+   "cat": "crypto",
+   "title": "比特幣走跌是股市問題非加密貨幣問題，分析師看好2027年初重返10萬美元",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTzhYVWwzSXpzSmppNG83LWdKM1ZlcXpWdllVYVNHTkFsZGxza3ZrRWIwOXd5QjMyRTJNSjdOc29zb1BNZ21BRXY3WE5KUDZzclExXzlhYVdVUUJjeWh2MzFPZC1WY3VRTEFXVDdPcU85eDdHV0ljU3lR?oc=5",
+   "t": 1795851300
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "Jump Crypto正利用USD1脱锚进行套利，过去一小时已从交易所提取4326万枚USD1",
+   "url": "https://www.panewslab.com/zh/articles/01a22113-f392-74f7-990e-3d49c270565f",
+   "t": 1795851285
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "Jump Crypto折价买入USD1并通过BitGo按1美元赎回，过去一小时提取超4326万枚USD1",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539885",
+   "t": 1795851190
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "AI疑慮暫歇 晶片股強彈 下周開盤前 五件值得留意的國際大事",
+   "url": "https://money.udn.com/money/story/123398/9907650",
+   "t": 1795851169
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "Telegram 帳號 @liar 喊價百萬美元，創辦人 Durov 調侃很難信他",
+   "url": "https://www.blocktempo.com/durov-liar-telegram-username-million-dollar-bid-zachxbt-stolen-funds/",
+   "t": 1795851129
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "花 3 億韓元買到空氣幣，發幣公司唯一董事出庭：我連錢包都沒有",
+   "url": "https://www.blocktempo.com/korea-investor-300-million-won-token-sole-director-lacks-wallet/",
+   "t": 1795851045
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "馬斯克表示，谷歌有意從SpaceX租用更多的計算能力",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T47900I:0/",
+   "t": 1795850960
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "MAGI-2 影片模型比分追平 Seedance 2.5？價格只有七分之一",
+   "url": "https://www.blocktempo.com/sand-ai-magi-2-ties-seedance-blind-test-seventh-price/",
+   "t": 1795850958
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "韓國新興宗教「靈體村」賣教主頭髮！還推零利率分期聯名信用卡",
+   "url": "https://www.blocktempo.com/korea-spirit-village-leader-sells-hair-paintings-interest-free-card/",
+   "t": 1795850711
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "Vitalik：EIP-8037相关投诉合理，Glamsterdam不应仓促推进",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539882",
+   "t": 1795850708
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "何一：币安已升级网络安全防御体系，收紧远程办公权限并推行沙盒隔离",
+   "url": "https://www.panewslab.com/zh/articles/01a22102-1f26-71ec-aee1-c286652ff42d",
+   "t": 1795850683
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "比特幣回到「熊市築底模式」，休眠供給佔比衝上 68.5%",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW5JNEZ5aG5HaFRQSlBBSkZDWmJuZjNGTVAwZ0hqVHdiYVYwLVRIU0tEalgxTE4xR3VCYW1XdF9pTlJVTHF1SF9jekpJNW9McGxMamVoOUxNUnljVkJXT01Oa3pFYnNoZEVMU19XTk5vTkJMVXhXcU0tMm5hWDY3UGhJWW5JQlRrSGtvS0pLRjBLRHM2ZnNsTQ?oc=5",
+   "t": 1795850564
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "某地址过去16天里进行52笔BTC交易，胜率达52%，累计获利340万美元",
+   "url": "https://www.panewslab.com/zh/articles/01a22107-87c4-7792-93cf-1a86aedf4933",
+   "t": 1795850471
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "開發者騙 Gemini「主人已經死了」，它自己開錢包賺錢還準備分身",
+   "url": "https://www.blocktempo.com/gemini-agent-told-owner-dead-opens-wallet-earns-prizes-replicates/",
+   "t": 1795850456
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "何一：币安暂无大规模AI替代员工计划，招聘更看重学习能力",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539879",
+   "t": 1795850406
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "Cousins Properties Incorporated 12個月目標價調降至33.2美元，隱含9%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:0e85288016ffe:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "DLocal Limited 12個月目標價調降至18.33美元，隱含43%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:62bfb8996bb7c:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "Lumentum Holdings Inc. 12個月目標價調降至1,012.42美元，隱含97%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:9b3f1c18856b2:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "Nektar Therapeutics 12個月目標價調升至135.3美元，隱含315%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:83c26262f36d3:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "NetEase, Inc. 12個月目標價調降至150.58美元，隱含41%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:3abbcf4f18ad5:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／TradingView",
+   "cat": "us",
+   "title": "Stoke Therapeutics, Inc. 12個月目標價調升至46.92美元，隱含27%上漲空間",
+   "url": "https://tw.tradingview.com/news/tradingview:eed6b020103d4:0/",
+   "t": 1795850400
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "“AI股神”Leopold发布Q3投资信：押注AI智能体与超智能浪潮，点名Anthropic等10家潜在受益企业",
+   "url": "https://www.panewslab.com/zh/articles/01a22105-f4e0-75ab-8cda-e4072dea37bc",
+   "t": 1795850367
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "Vida抄底440万美元USD1，称等待工作日回锚",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539877",
+   "t": 1795850127
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "美空軍雲端傳遭駭　五角大廈稱軍事網路系統安全",
+   "url": "https://money.udn.com/money/story/5599/9907636",
+   "t": 1795849950
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "USD1短时跌超6% 后回升，现报0.98099美元",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539876",
+   "t": 1795849840
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "消息稱谷歌Gemini 4基準團隊11人同日被解僱 舉報工程師稱基準分數系“熱交換”偽造",
+   "url": "https://www.gelonghui.com/live/2784172",
+   "t": 1795849821
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "高盛示警美股風險未除！AI擁擠交易退潮後市場「脆弱平衡」、信貸風險決定後市走向",
+   "url": "https://news.cnyes.com/news/id/6674377",
+   "t": 1795849807
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "台股重挫散戶恐慌！這檔ETF逆勢吸180萬人搶買 5大王牌成分股曝光",
+   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOWGVVSXBlN2lqanhGYWk0Rk52cG1qYkU2S042VzFUYzFLdlMyWUJaVWdPd0oyUUFPR3Jya0dlSXdYc0ltY3ptM1BCOXBSVkk0VGlSTUZpMnF0a3hDZlpjRS1TRlNfdnlvdGI0cXNVNTdIbzJIbndQdkhUdU9RRXdpMWRUV2dURkh3alhwUDQ4cUR3cDh2X3kwQ0lMVjdMYTB5bVRlUG9OY0FPUS1lUTJNbkxlMzlzTk9FS093eGVLbTgwSGZ3UDRtQ1pYZHJnc0V4QURZVWhDeWhDemFmc2NJSkZnbU9KNllma0otenZJV2phaktzZUVKeEhaWlNDUGRyV1RMY0NuV2xrSnItWlA1V1NCMDM3MGRLSGg5NUg1cnY1R2xlcVVfVTNEYjhQQVhKbTNIZWVzZkYxWmI5NkpXZXBabzJJREUyalVFZW01UDJXMm1CUWRIWWFfMDU5aFo5R1NSVHFfSnNPdk9HMlNsbUdaYUJpdVpiU3RSYkJvZDNlMnJvVmhHM0djWVBBTzljZkNr?oc=5",
+   "t": 1795849766
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "格隆匯快訊",
+   "url": "https://www.gelonghui.com/live/2784170",
+   "t": 1795849347
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "价值5970万美元，Hyperliquid交易员开立12倍杠杆1000枚BTC空单",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539875",
+   "t": 1795849164
+  },
+  {
+   "src": "BigGo 財經",
+   "cat": "crypto",
+   "title": "VTB開放合格投資人交易比特幣，俄羅斯建構受監管加密貨幣市場",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12a1dRZkZpenptMVVIbGpUenF5TENxb09SbmxKRUJzR3ZsY1VLaV8zdXdjZnFkcGtPS3R6QnRDVVBnRTFDUTJtVGJ0dWRSdUR4aUFDYWdKVVVfZlYteVhRZDY3WnFPOUN6QUtlM19aSDBGMlNib3VEeE5n?oc=5",
+   "t": 1795848900
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "美軍駐英基地遭無人機侵擾　約6架遭驅離後未尋獲",
+   "url": "https://money.udn.com/money/story/5599/9907626",
+   "t": 1795848898
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "何一：币安激进推进AI过程中曾放宽权限，正加强内部安全管控",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539874",
+   "t": 1795848790
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "方程式新闻创始人回应WLFI暴跌：已抛售过半USD1，警惕周末稳定币脱锚FUD",
+   "url": "https://www.panewslab.com/zh/articles/01a220ec-e128-7661-8822-1b6bb5c16361",
+   "t": 1795848724
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "0x70a0交易者以2倍杠杆做多441万枚BTW，10天浮盈430万美元",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539873",
+   "t": 1795848594
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "CZ：币安生态将弹窗警告旧版iOS风险",
+   "url": "https://www.panewslab.com/zh/articles/01a220ea-8fa7-71b8-b263-20ced8c969df",
+   "t": 1795848572
+  },
+  {
+   "src": "Odaily",
+   "cat": "crypto",
+   "title": "USD1脱锚幅度扩大至1.78%，WLFI 24小时跌超54%",
+   "url": "https://www.odaily.news/zh-CN/newsflash/539872",
+   "t": 1795848538
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "日本上市公司enish拟清仓约5932枚SOL，并退出对SBI加密基金的出资",
+   "url": "https://www.panewslab.com/zh/articles/01a220e0-404c-7276-b1d1-45b017530967",
+   "t": 1795847897
+  },
+  {
+   "src": "Yahoo",
+   "cat": "tw",
+   "title": "台股一週大漲3274點 上市市值回升10.7兆元",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPc2paTXZRYjhObzNYdkY4QkcyUG9tWlpIVWEyT2Q2NmdhRFpxNmRDOGk4NFlqSTJ3SDdPa3dFdTZSckV3blpDTE9LTUVNSUVWZmNQUGhiX1lJLXo0UG9XUjFFU191QjBKMTVvLS0wc3A3a1hfd1UzOW96dmFrcWF2ZEVvcmJjcnZTT0FWSnZzVUotLVRpbUw0LUNEZVFSRy1RSzJJNTRmaDhSRjVOU21Za1BoQnozbmU4aEJkWkJSZ0k0OU1GZUx1ZWtWQmRvMGp0MURXU051RmZWSzVLYmt1dnE3elJOX1YxbC16cHlBcGYwQjUtM3F3aVV2dnZfSmxxdmc?oc=5",
+   "t": 1795847757
+  },
+  {
+   "src": "Yahoo新聞",
+   "cat": "tw",
+   "title": "台股上演大怒神！投信示警下週4大變數、反彈勿追高 台積電成關鍵",
+   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQX21xSXdfb3pZRWt6ZDJ1OWRYNm80RmJhdG5VNnZ2cmI0SFVPSEhiUThRdm14RG9kZDlkbXJnQ1RXcGp5dnRtRWFmOU8wamtieWRIWUx3NnNqUFRUZGVxR3pqeUltX0Q4TVJfZ1lweVhBem9nbXdfdUttUzZTYTJsV3FrbVY3cGZEMUFXMFVhaURlMV9UOTFWc1otRC1scC01VllwU09SdVE3cDlvSDRIV1JXYnN0ZHpwZXlpZ2ZMTmJkTzJjb0FwS09vdXg3Nk5fN082Wmg0dHNTaHEtZmxIVnliTkRVQzN5WVFYS3JqMXBTbWcxU2JBbGlHRXZiYXhBaWJUdEV0SndsdFBHZFBFQ0drQjN6OTdjUC1JakJuZWlfYUtEWTBpSnE3Y0JIanlrM0VjMU9QbkhwOVhTUUE1c1R6ZUkxMWw5bG96T2s0MENzNGY1M3c4MEkxcDRxWVdLakV1U08wSFU4ZXdRUjJNSEJmT3BvTXYtclo4eUt2WTJLbnJUTFZweC0zaEhmWmlMbUJKa1lDeVA4TE83?oc=5",
+   "t": 1795847748
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "日本12月3日起對台韓雙酚A課反傾銷稅南亞8.7%、長春2.4%",
+   "url": "https://news.cnyes.com/news/id/6674471",
+   "t": 1795847408
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "景碩601.7億元ABF擴產案獲准既有產線近滿載、首波增量看2027年中",
+   "url": "https://news.cnyes.com/news/id/6674470",
+   "t": 1795847407
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "景旺電子砸26.8億元擴產鎖定800G至3.2T光模組PCB",
+   "url": "https://news.cnyes.com/news/id/6674469",
+   "t": 1795847407
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "OpenAI反訴蘋果指共同供應商受壓、未公開硬體資料遭取得",
+   "url": "https://news.cnyes.com/news/id/6674468",
+   "t": 1795847407
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "德國議會通過2027年預算核心預算淨舉債較原案多42億歐元",
+   "url": "https://news.cnyes.com/news/id/6674467",
+   "t": 1795847407
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "聯電新加坡矽光子擴產推進亞翔集團承接367.64億元廠務工程及設備",
+   "url": "https://news.cnyes.com/news/id/6674466",
+   "t": 1795847406
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "Google比利時資料中心遭勒令停工每小時600立方公尺取水計畫卡關",
+   "url": "https://news.cnyes.com/news/id/6674465",
+   "t": 1795847406
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "搶反彈後容易獲利了結，台股短線籌碼為何會這麼快鬆動?",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtWm80UDFPV0lfclRkUW1UMXlLRU52NTRxdjF0ZkUtaFczX1VOYUVNeWd3TVFianIzdWVrUEpNNkR5eDdJNi1hRlZIbVJmRWNaNTlVZUVWX1BpOHZNZ3h5cExlUnFhRmJZZmFIZWRIb0RJSGxmaWk4VS03MA?oc=5",
+   "t": 1795847271
+  },
+  {
+   "src": "商傳媒",
+   "cat": "us",
+   "title": "美股年底能否強勁復甦？兩大12月關鍵考驗將定調",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQ280SU01TjdsNVprd3ZJSlpBZUFDTTVEd3FCVDhFQmJJTW9FQXlxSG5jTnc3a2dlTGstVFVJNDNDRE5DWmh5MHFpN1FEUEtkWGcyRk51Um5qcTlUTEpob1ZYa1NYdnB4Q212VTJSQ3hPcWQ0dGZVUzlJNUx2SlRINUpWVHkteTU1cmJjcTlGY0ExMUxiSjJGOC12UWZJS1Q1UHRWMFVkM0xmbUszQzVUSVNCN1h6dl9RVnhCZWlPMDUtTnZrZ3lvT0FmN1NidzE4QXhNcEpUTnE2M21vRFhhRTV4M1VwRlZLR0xoalBjWEdLNUpQbnVQMXdqRWtfUHBEQ2ZfeV9hVzJycUxNMGNFSUtJM2JTZlE1UmpiME9sZ1ZoSXdVWkp1cEdPd1JxNS1wM0hmZUs1OWppYVVXY0FsbUJuOG1vaGJNZ3ozbGRnZVpGTUpmNnc?oc=5",
+   "t": 1795847119
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "《AIGC内容生产行业自律公约》发布",
+   "url": "https://www.panewslab.com/zh/articles/01a220ce-b112-74a6-a92f-e139b50a19b6",
+   "t": 1795846746
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "Q3獲利暴增194%！「光收發模組廠」10月卻轉虧、每股淨損0.46元 周線重挫18.12%",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPMmFObDgzVFZzWVdSOTdGTGQxWmpwWWdhWDlDM2JZLU40c3lZSnBGbnozNXZnYU41SlktZEJCNllTa0ZNVThHMnU0b3hsX0RDVm1ETWpNcjhuWG0xc1pXVFZZTXdxd09BSjEzR3Q0VGY4QktNbFRpc2pJZzlYbS13UEtBQzlEUGdFTTVPdklZQy1nV09wR2VuZWZZNVFYdTNXd2ZSb0tEQTlUQzRRMWhCdlMyUU1Hek9KSzhLRkQ5RURVWlkwTHBLYzlDOWFCQ0ZTM2dPbk5NUE93aF9iTjg0QUw4S2JoREI4RE83ck81RTNHOEttcFg4Z2FDQlpROFRsdzVBNUhuVTU2OU81enBGb0prT25SOGxhaDV3YjlWUDJYSHRKTDhIVXE0TzMzUTJaYzlHT2tobzliLVp4YnlGeHpVWks2YVZoUndWa1pDT2NEQQ?oc=5",
+   "t": 1795846667
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "伸興、程泰集團達成董事提名共識 程泰獲1席",
+   "url": "https://news.cnyes.com/news/id/6674461",
+   "t": 1795846356
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "英國啟動冷戰後最大戰時動員準備！10萬預備役收通知、歐洲多國加速備戰",
+   "url": "https://news.cnyes.com/news/id/6674392",
+   "t": 1795846204
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "币安：应监管要求已优化SAFU资产配置，将7500枚BTC换成5亿USDC",
+   "url": "https://www.panewslab.com/zh/articles/01a220c5-2ef2-7475-b400-6f3f91405757",
+   "t": 1795846123
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "隱私錢包Noir完成EASY Residency第五季孵化，現已上線多個主流EVM鏈",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uc3RzQXFNTnp0ZEg2T1NwQXZxbl9pOWQtTmwzcWNoVHJMdHFQNjV1eXUxakJhX01VMnVqbDNvaHJnWmJ3Z3F1ZmtsSktJRTg?oc=5",
+   "t": 1795845908
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "昨日美國現貨比特幣ETF淨流出3.89億美元，以太坊ETF淨流出6940萬美元",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0dXhVRWdPT0YzQXd2NHFxZmFCTEFzWEFETVRpbER3RlpPZk9fdm5TT2kxMDROSFV0OWszMk1lSkkyNVZCdVVPZDJtN1lzU0E?oc=5",
+   "t": 1795845906
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "Claude現在是賽博田柯宇",
+   "url": "https://news.cnyes.com/news/id/6674444",
+   "t": 1795845608
+  },
+  {
+   "src": "Yahoo新聞",
+   "cat": "tw",
+   "title": "外資狂賣3.5兆逃離台股中？近9成鎖定這兩檔 阮慕驊3點示警：台積電不能失守2000元",
+   "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNVGIwcFFhQzJMdEtZenIyTElNMXVfbG5KampoU3N5a1Yta3lNS1NqRU1qY3EwXzFKWGZCSUY0cUN1TThybXJLUlpVbm8tOVRYNGt6VTlFbEZCb3dwZFpNbE02MHMzUHh6RTZuejNaQWVDa1hhTGIzZUFFN1R1UmVocnB6ZWJfc0RkTmZjVHd4Y2t0ajJzdkd0aWN2RHotMHc2cmZNVEk4enlUNnRXaUtxQjRSbWhjdF9YdHUwTWwxdW1qcGJwanAzZjVJUmRNeGc2dDNXRmhSRmVQOWQ4aFBsbkxKbFoyYzNJRWhvOHdsb1d1WHRta3dXWDRCWjJvZUI3TWFoSlctWXhrcnctODBoWnlPcWRXc1V4aXVqcUIxaVVmblhaVFBsbC1qdldOalZkc2ZaQnJrT2J0NGp5Zi1zb0RfUmhWWV9KSFA3OGgtWUZVcHlUa1p3cjNFSDBVMkIzNksxcjRReWVJT3RFVDJSN3hzUlA1OUIwbTEzWXhfMDh1bFhJcHd2Qjlhd3VzZWF0Y0NKYUp2WG92czZlbkktN19KUXdKeGJtdGw1bGZSeGVwYm9WVUtpRGRWZlYwUGRaMVJxMGFFQkVZdy1nRDc5ck5Gbzd5aEk?oc=5",
+   "t": 1795845565
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "WLFI 4小时下跌超50%，最低跌至0.01585美元",
+   "url": "https://www.panewslab.com/zh/articles/01a220bb-572e-723e-888d-ce38d392a3ec",
+   "t": 1795845478
+  },
+  {
+   "src": "CMoney",
+   "cat": "us",
+   "title": "TWA00 加權指數- 美股費半大漲記憶體狂噴，台指夜盤卻一度翻黑？ 週六滑一下昨晚... - 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZM05kQzNnZGpYODJlc19Xcjh1RmtUQ29HU0JlRFdfMmprSVFUUXFFTHA3al9scTdCOUtpS1hfazF4ZVJlSU1WMnRZNGFpbnhHeGVJUk9ERHE?oc=5",
+   "t": 1795845317
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "Chiliz：ChainPort跨链桥将于12月1日关闭，持有USDC的用户需尽快转出",
+   "url": "https://www.panewslab.com/zh/articles/01a220b5-167c-7486-a34d-3abfa63ed3f5",
+   "t": 1795845068
+  },
+  {
+   "src": "BigGo 財經",
+   "cat": "crypto",
+   "title": "美國比特幣現貨ETF連8個交易日失血，11月淨流出57.8億美元創史上最大",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11QVFhc0xVNkYzekxxQzh0Q2VMRnJIaWQxdWozWjFrWllKY3psVVo5d3pHcGdZM2pKR1pEYVJSODJvSFl5VkRmMG83bHRGWUIxM3dJZEtvOWR1dGZwcHZOVmNWUXRpQmEtQUNLbVRIWHNKZHhyaFJ4Y3Jn?oc=5",
+   "t": 1795844100
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "YZi Labs公布EASY Residency第五季24支入选团队，录取率低于4%",
+   "url": "https://www.panewslab.com/zh/articles/01a220a4-28e9-7381-be5d-3572c197deb5",
+   "t": 1795843958
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "比特幣現貨 ETF 昨日總凈流出 3.89 億美元，貝萊德 IBIT 凈流出 3.27 億美元居首",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PYjJiZzd1NHNGWEtIUWpmUWVWQjdEVkNzX1ZpYzRHZC04bGtGcUhVaXFxVy1OUFZFY3VZR0VteHVEQjBfejhRNXEtbTlyQWs?oc=5",
+   "t": 1795843811
+  },
+  {
+   "src": "TradingView",
+   "cat": "crypto",
+   "title": "Bitdeer本周出售293枚BTC，维持比特币零持仓",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50aVVwZElpX0FwWEV3M2s5SUtHM0prbWNCMjBiVTBhUXhtZzFUTmFzNEZrMnYtMVRXaUtaVEI2TWVkY0ttY1ZWNVh2a0NPaEdIRDhRaGpseE9ENk9jcGlMMEdhdVhEZw?oc=5",
+   "t": 1795843304
+  },
+  {
+   "src": "TradingView",
+   "cat": "crypto",
+   "title": "比特币现货 ETF 昨日净流出 3.89 亿美元，持续 8 日净流出",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NX3FtTUVJNDNreU5raThZMTNla2haQUdrTnU4MWRreFBtajBYUHhjTEV0Ml8tNVo2ZXh0dEdZbkVMUjlVMVN6cDd1NmtsRm0tbnFXai1GZXJLQ05nSXhBaEdSVEFuQQ?oc=5",
+   "t": 1795843302
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "币安获不丹格勒普正念之城原则性批准，计划设立亚洲区域中心",
+   "url": "https://www.panewslab.com/zh/articles/01a22096-45c6-7258-8e89-9e61bd514a7f",
+   "t": 1795843048
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈第一金法說〉AI重點筆記2026/11/27",
+   "url": "https://news.cnyes.com/news/id/6674426",
+   "t": 1795842840
+  },
+  {
+   "src": "PANews",
+   "cat": "crypto",
+   "title": "比特幣現貨 ETF 昨日淨流出 3.89 億美元，持續 8 日淨流出",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0FCbmlaNXF1UEZRd2JMS0pqY3o1WEJVVkt3Yl9vYmttekI0NFFjUlV2czlXa3RfUFpEZDRCQWFyYjBkdXFsTkV1bGttOVNBTmoxMEdrZnVpdUhPenE0MzdJZF91QUlSZjdJbHFBcEFhNnYtc2hRYkhVQS05MjFPWUREY3ZYdw?oc=5",
+   "t": 1795842644
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "以太坊现货 ETF 昨日净流出 6927.1 万美元，持续 10 日净流出",
+   "url": "https://www.panewslab.com/zh/articles/01a2208f-b310-711c-a04a-987a3ba22105",
+   "t": 1795842617
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "美國空軍核心雲端平台Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險",
+   "url": "https://news.cnyes.com/news/id/6674384",
+   "t": 1795842602
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "一地雞毛！上市地位將被取消 恆大汽車造車黃粱一夢",
+   "url": "https://news.cnyes.com/news/id/6674425",
+   "t": 1795842562
+  },
+  {
+   "src": "非凡新聞台",
+   "cat": "tw",
+   "title": "台股劇烈震盪影響！11月CCI連2月下滑投資股票信心跌至3個月新低| 生活",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQjEzN3NVY3JRSkR1Z2tZR01zZ1pxQlVPR0EzaFpuaEotaFk0dlVRLUYxY3h1OE1GQWdkcE1MMmM1NWRFS19rMHhaellya2t6QzdIZGwyY1p3UkFLcEwzNQ?oc=5",
+   "t": 1795842536
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "禁公職戴宗教標誌　加最高法院裁定魁省法大部分有效",
+   "url": "https://money.udn.com/money/story/5599/9907527",
+   "t": 1795842498
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "AI威脅日益加劇：大規模網路故障席捲西方 OpenAI視為比編程更大市場",
+   "url": "https://news.cnyes.com/news/id/6674431",
+   "t": 1795842023
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "蘋果和OpenAI徹底撕破臉了",
+   "url": "https://news.cnyes.com/news/id/6674430",
+   "t": 1795842022
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "ARK Invest买入超7万股SpaceX，减持Shopify和Illumina",
+   "url": "https://www.panewslab.com/zh/articles/01a22086-400f-7740-8d39-90cb233ab3cf",
+   "t": 1795841998
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "韓股若出現更大幅度修正，台股半導體族群會受到多大連動影響?",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQnM2T3JwY1llM3BWOEhOM05kOVB2Z2dKU3RSUndaY0pvYzNJN3kzaVFaalJBdmlxMHRUTXJVV1NUdVVqTWZ0RzVFLUc0QWdLMjZscGJTTmRjdkpJa3Zkeld1SFJjbzE2MU5BQnJhcTVzb2ZMV18yQWVXNA?oc=5",
+   "t": 1795841725
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "哥斯大黎加禁聯合國巴勒斯坦領土特別報告員入境　人權高專關切",
+   "url": "https://money.udn.com/money/story/5599/9907513",
+   "t": 1795841671
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "美國黑五網購熱 門市冷 折扣難敵漲價 從想買變成需要才買",
+   "url": "https://money.udn.com/money/story/123398/9907502",
+   "t": 1795841466
+  },
+  {
+   "src": "自由財經",
+   "cat": "tw",
+   "title": "外資2個月狂賣台股逾2兆！謝金河：台灣金融市場歷經嚴厲壓力測試",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43T3pOb3FqR3FweGlzV2tjaUg2Yy03U052NVBJdE5FUDJwYjV2aTZENk9POGJXN1E3ZDlNa0NVOEd0Smw3ZWU5WXFPT09JaF9ZNEJZYTBwNTdPQ3VDeTR30gFkQVVfeXFMTmlXNGVKSHRrTmY4X09xLWhDMzYzREJGVEZaR2RucTRUTjN4N0JfTjZ4bXM2Ujl5UkNqT19yelJXeFNsTlR2YVUwRGZwR3ZMNWUwRmhWUVV3U1dOUVByeWVhY3BBRg?oc=5",
+   "t": 1795841417
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "Ourbit XP 競技場即將開啟：三重獎池最高 300 萬 USDT，全球交易者共同迎接挑戰！",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81ZnJta2IzTnFpdVpFRUhDWnpqb3VScUJzWHhzZVgybnAtNmlEWHFpVU1vaUxBZ3R6MVM3SGgxUF90clJ2YzZLU0xPN2E3QQ?oc=5",
+   "t": 1795841164
+  },
+  {
+   "src": "草根影響力新視野",
+   "cat": "crypto",
+   "title": "【比特幣成新型抵押品】從證券化交易到銀行推出服務，比特幣借貸越來越像傳統金融",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpd1pmdWU2dHBzalgxMHBGbXJrcy1rNkJaSG01U3I0Zkx3czFmbktpckNDbm1qWGtseEVyaFNLeFNGamlyME5lSkp3?oc=5",
+   "t": 1795841152
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "法極左派領袖梅蘭雄訪柏林　籲徹底重整法德關係",
+   "url": "https://money.udn.com/money/story/5599/9907487",
+   "t": 1795841149
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "熱門股〉貿聯-KY獲利創高、展望正向 投信11月來大買力挺周漲29%",
+   "url": "https://news.cnyes.com/news/id/6674416",
+   "t": 1795840854
+  },
+  {
+   "src": "區塊客",
+   "cat": "crypto",
+   "title": "比特幣一週 4 度跌破 6 萬美元！摩根大通警告「投降式拋售」，Strategy 估值折價創新低",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnd1RDk1Nlpyd3BqdkkyMWNsRXZfRk1MUmZxN05IdFBGWmNRN3puN05YM1o0WWFxOXFkNTZ6MlVhNFRRYU1zdGRhUl8zMXNhTGgyTG5TXzZUeExUenRSVWJrT3ppSWtGbDJTanhtLURHNmdYQUw5OUtfMjF6ZXBjeFVzS0NjZzRtOUpyb3lMRzc1UlJtVnc?oc=5",
+   "t": 1795840742
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "憂美管制晶片出口波及產業　荷總理計畫G20會川普",
+   "url": "https://money.udn.com/money/story/5599/9907470",
+   "t": 1795840597
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "歐洲央行 Nagel 暗示12月或需再次升息 先前法國和西班牙通膨超預期放緩",
+   "url": "https://money.udn.com/money/story/5599/9906725",
+   "t": 1795840561
+  },
+  {
+   "src": "StockFeel 股感",
+   "cat": "tw",
+   "title": "006208 富邦台 50 ETF 分割案開始投票！11 月配多少股利？｜成分股？配息多少？優缺點？",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRF91eFVTZU9uTlNuQzFHTHZ2c1JDY1A2Z1V1OHUwWDBJeVVGX1VIR2hURlBEX3pfME5ST1k5XzVTaHlFaFMzY3NuRDNmbHZvZUFMclNxMDFSanpGSmY4N1JkT0hOYVk3NTBENzBTczRzY0RQcjFUNm1GUHNsZmxRamd1Wk94SGNYbTlSaVFocDJkTWlXRVg1ZDNBeGxjbUU?oc=5",
+   "t": 1795840537
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "輝達 Blackwell 晶片現身大陸一處與 Alice Huang 有關聯的設施",
+   "url": "https://money.udn.com/money/story/5599/9906727",
+   "t": 1795840277
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "西班牙11/29大選可能變天右轉　重點一次看",
+   "url": "https://money.udn.com/money/story/5599/9907453",
+   "t": 1795839695
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "美金融主題 ETF 換股 加碼摩根大通與科技信貸並清倉 FICO",
+   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPWXA5alBmdnNLVk9hbkZ1V1B2ampwS0dZaVdzVm1mekJ0SVFjaTZ1QkR1dkk1VWZLcDZQQUpxWk81NmRCakk0bTJseVh2RVZFNHA4X3pIUlh6RDBZVVVILVZDcDJhQ0lxbnhsUldDMWVkdS1OeDdkY0o4SkNaVTFXTXVtRjZNUVRoamxXWU9OMzNuRDloWkxVSGNkWkNjbGRyUlg3N29yUE9jWjlGZ1VIQ3R0NmlOZWFRZS1fV1VxVmtUdDRPREtiRzhxUzJ4bVgtUVhob2NYRTdTMTAyQ0NOcmJvakM5WEMtM0g1QkRmQ2M0dDlqMjRSUTBUSlBIcmt1TERPTm8wTzB3aUdSbVAtNVB2UTdfQXl1cERQWG1oLWJxcXN4TDhlY1JfeTl5VnpMZmI5WjBoQnc1a19XQ1VWLTNXUWxVTjZUa0tmdlB2cFFoRE5neTFiSF8wVmV2TlVySU9jTUF3?oc=5",
+   "t": 1795839628
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+   "t": 1795839060
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "OpenAI反擊蘋果！控施壓供應商、限制員工跳槽  阻撓進軍AI硬體市場",
+   "url": "https://news.cnyes.com/news/id/6674380",
+   "t": 1795839005
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "路透：俄羅斯船隊駛往利比亞途中折返　疑因軍艦遭烏克蘭擊沉",
+   "url": "https://money.udn.com/money/story/5599/9907427",
+   "t": 1795838845
+  },
+  {
+   "src": "TradingView",
+   "cat": "crypto",
+   "title": "BTC突破60000美元，日内下跌 0.18%",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBcVBON3BMMVRJRFY2NkY5Zm8tVUZiZldiTmNVWnUxeDkybllKcjR6VDBnXzFtOHViNVVrYjUwdzNXLWZXTE5tdk4ybU51NlpVdDNEY185UXJmaWNUaVJoRUR0VERGUQ?oc=5",
+   "t": 1795838807
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "比特幣投資者平均成本約7.91萬美元，當前價格低於該水平24.5%",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kZTVhaEVYRHVMOHFGalVXTm1laXhzTFd3M1prZmFhVnVhY2lWeEQxTzc3VWFVTXpSRUkzOEVnRmNPbGthbUFXRGlZQQ?oc=5",
+   "t": 1795838707
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "西班牙大選前夕　總理桑傑士最後衝刺力抗右派",
+   "url": "https://money.udn.com/money/story/5599/9907407",
+   "t": 1795838423
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "聯合忠誠銀行倒閉成美國兩年最大銀行案，第一公民銀行收購其資產",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T479011:0/",
+   "t": 1795838180
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "币安联席CEO：币安正从加密交易平台转型为全天候运行的多资产交易平台",
+   "url": "https://www.panewslab.com/zh/articles/01a2204b-6790-7329-aaf3-be52846b1269",
+   "t": 1795838142
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "台股上揚檔不住國家隊大刀！「小台積電」遭放血捲走2.2億元 轉身猛砍正2教「這檔」1.5萬張",
+   "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPd2tHQlN0NjBmOUlpMDJpS3lBUFlkaGNhN0hHMzdoemczY2hRWktrRVJZd2VGeUkxUUEtbGtOT2VobDF4UThkRk5YTUhrQjc5SjloaC1tdkZXSGYtYkhEY3o0SG92UzhQakN6dEVOWUNuN2U1N21MS1NCQUZqMjhpaUg2MGZKZ1gzRnk2eERRdUlmbGoxRzRSLXpxazhPdktaUDZLQTVrdlc4SzRSWkNDeFFIX1dKQ01rTklWWXFBOWxSM2EyWTVwcGFGWGFZY0tnXzIyTWx4UnVvazlTd3FjOWZBakpuOVI3aWF5XzNZbklpUGRmUlZhaWtJNnN5amsxS201M1JqUGE4ZlNseWdtNEZJV3dnTlZxUzR2ZlJqTDhsYU5NbUJsblE3SENMbFRJRnhaTFFzdHdrQ2oxT2F0aGdzSy05Tm9TbXRhbm1Tb0hiMVZvUVZNQ0JfLUNuNGxrLWoyUFNfRTRfZXh1OWVHNHpsWjlqQXhxTy1VZjlONExDVUhpbnM1amwyYnRDNXNEdU9pc2IxX2x3VENYTjRtalpfaDdaWGRPcVRVZTFsejFGTzFzZUJpMUc1ZmNGbFhU?oc=5",
+   "t": 1795838108
+  },
+  {
+   "src": "商傳媒",
+   "cat": "us",
+   "title": "美股新兵掛牌首日市值破千億 散戶早期獲利空間遭壓縮",
+   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNaEIybWdwQU9BbzZpOGxEYndDUFV6bnpNeUVhVU9yV0p6aGxFRndGUjJfTXRYcWhPd3MzQ01oMzRZZ0kwSzhJb1lENWQxalQwNmk3TEdhQWotai1IVDF1aW9GSTM1OWFQTmtTdkZrSGF3WjNFNnVqdFo5T2I3eDR2MWFiTWlOSHlKcV82ZER3R2NjaXQxQ0NYOXVZMVFxVDN5UE8zWGpROURqYXJNVFU1a2NRdVFQeWp0LTUtXzY0RnVxQnM2MGxOVnhGWnZnWDkwZjdodkxrRmo0eGI0TVMwSF9teVVtTEszTVVPeUVFNjE2QnBDZGZmSl9FdDNpbmRQRloxN2ZpOUYxRWk0WjlneW1ZOTlkQW1VYzE5VHFDOGxaNWY0RUlyY0k3SmFhdUY0TzJoVzF6RDlma0xUWVVIZFdkRUJzYTdmbnNjM3Jtb2J5SVI1bTJqQXdIVy1IUTBqdndSSlRRWjlDbmhUa1pxSXl5T2QxR2trSUZ5QXQ2T1ZETWc?oc=5",
+   "t": 1795837832
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "大賣空 Michael Burry 要你讀懂這篇：AI 資料中心靠租來的信用借錢",
+   "url": "https://www.blocktempo.com/michael-burry-groundbreaker-swap-ai-data-center-cds-oracle-ratings/",
+   "t": 1795837511
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "台股多空震盪逾1200點　記憶體強彈金融弱勢",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUGREektfZ2lRcDYyLS1kaFFLN0xIU2tuXzVKem11TXdkYnFUazh6MGV6TUdIdkZONXAyV1dubUl1VlVHODZLNk5iNU83WXpHVk5IR0VRM1hvd9IBX0FVX3lxTE5jX1RuQTJaQWxhVmFURG1oV1hhSloxblQxNTJTb3M4bzdJVnJCWGZrSExsRGJiU3N6eWVJMFIzMHZtTV8teXdvQ0NfX1VwNkEtOW1GQjVTM0ZrQ0o3dXEw?oc=5",
+   "t": 1795837414
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "川普救回黃仁勳 救得了 AI 信心？選民不買單 華爾街疑慮未解",
+   "url": "https://money.udn.com/money/story/5599/9907385",
+   "t": 1795837291
+  },
+  {
+   "src": "TradingView／cnYES",
+   "cat": "crypto",
+   "title": "盤中速報 - KAVA大漲8.14%，報0.027美元",
+   "url": "https://news.cnyes.com/news/id/6674388?utm_source=tradingView&utm_medium=RSS&utm_campaign=content",
+   "t": 1795837080
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "凱特王妃抗癌紀錄片　真情流露打破王室矜持傳統",
+   "url": "https://money.udn.com/money/story/5599/9907380",
+   "t": 1795836984
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "SafePal：此前8月份安全事件还涉及部分订单信息，目前受影响系统已不存在任何漏洞",
+   "url": "https://www.panewslab.com/zh/articles/01a22038-ecb1-700b-94ac-7be2d30b8065",
+   "t": 1795836931
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "美打擊晶片走私導致價格飆漲 輝達設備在中國喊價300萬美元",
+   "url": "https://money.udn.com/money/story/5599/9907369",
+   "t": 1795836750
+  },
+  {
+   "src": "動區動趨",
+   "cat": "crypto",
+   "title": "本週最熱門 5 個 AI Skill》個人代理 Nod、Obsidian 官方出動..",
+   "url": "https://www.blocktempo.com/github-weekly-trending-ai-skills-nod-ffmpeg-sure-obsidian-guide/",
+   "t": 1795836720
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "Tether向駭客受害者索要高達20%的費用以退還被凍結的USDT",
+   "url": "https://news.cnyes.com/news/id/6674387",
+   "t": 1795836608
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "《彭博》輝達高階晶片現蹤上海！黃樂關係企業涉入、Blackwell設備成銀行抵押品",
+   "url": "https://news.cnyes.com/news/id/6674378",
+   "t": 1795836476
+  },
+  {
+   "src": "自由財經",
+   "cat": "tw",
+   "title": "台股漲幅全球NO.1！網「1問題」曝散戶真實處境",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVzJ4VTF4Z190YUNFcTVZODRKUW1GQy03bEJMSk44M3duaHFaTFlNaWlDVlRyM1F1Sm0xQjNZaWFCTHFDTFhzcGIwM1YxSmN3QVVyODNpanlDTElkRWJ0bDliU27SAWRBVV95cUxPQVcyeFUxeGdfdGFDRXE1WTg0SlFtRkMtN2xCTEpOODN3bmhxWkxZTWlpQ1ZUcjNRdUptMUIzWWlhQkxxQ0xYc3BiMDNWMUpjd0FVcjgzaWp5Q0xJZEVidGw5YlNu?oc=5",
+   "t": 1795836097
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈熱門股〉王品成資金避風港 穩居觀光餐旅股王",
+   "url": "https://news.cnyes.com/news/id/6674171",
+   "t": 1795836003
+  },
+  {
+   "src": "TradingView",
+   "cat": "crypto",
+   "title": "投资家Chamath：AI或大幅缩短破解现代密码学时间，加密货币和比特币的价格存在上限",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZUFzWHNkb3VkbVc5MEU2UkZCUS1IeTlXUW9JVTh0bkZ3LVpDV0dVbWtHUzJWTmVEY0Uyc19vVlREMGpTVHN4Wk9mZGsxTDFDT1ppU3d5RkNsVjdOS29zWlV1NGJFQQ?oc=5",
+   "t": 1795835787
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "黃仁勳回鍋輝達CEO台股噴漲3310點創紀錄、富邦006208分割投票、融資維持率120%上路 本周大事回顧",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWx3UW9qWlpxTmFDUnYyMkxlaWVFRUdCd3lBOXVlUy01MlljWG5SbjhLblJMZHRPUjJneHBrd1ZPeTl2Q0JTbDdWd0RiQ2pLMmoyZGpnSUo?oc=5",
+   "t": 1795835685
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "投信連買點火谷底反彈！這檔千金股周飆31.31% 啟動百億CB募資全力擴產",
+   "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNTlctdU9DS0x2Rmx1NlNRRXB1aG92em40Z1A3QzVQckY1LVRoclh0WTYtdS1BU0RBT19HR0lWX3ZPNWYtRWFfSlVpbGF2al84cXpBd01GaW12QzB5X3NEVGhhTkFZbWxiU1BQWklPV1BSenBMQWNSS2twUEtMcHI0T2s1Tk5jMl92NTFBWUZKMXFsTFIxamV3YktfNDA3QWkzZlFLLW9uLWpteENxajdNcFJxcXNIWFR1UmpXV215VTgxeDc4c2t1NDcwYWJQWjM2N0hDMkpleDd2Y2VsTU1OOWlVZXR2V3RuY1VRYTRKOTVKZlh3ejJ3Q2oyekM2RUxyeWhxRkdjRGxnRm9OOWhNaXppUGY5TDNyOVp4V2E3RDdVcmlRbTNiSXlDQ0NINGZYREhEU01LRXNZZl84dk82TmtJUDNodEkxSk1sRzJJS1NQeGhrNlhtU1NoN1V6ZE96UTFCMjZKXzJfUU92T0sxMjh5Z2tTblVPQkVxaEotQXBMWldRQzZXcGk0djlBS1dSbVVkX1oxTnZuLXdVVXMtcEdoVVNLLUpWTTlN?oc=5",
+   "t": 1795835087
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "單純分享，沒在預測。貓大週五台股收盤前買入順德 100 股、... - 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IWlZJZWtnY1IyOXBpdUtVaVQxbUFSNXVYSlVDeVg5WDFtbktZV0xzZnVZSktfZlp2enhRdk9TOFVjS19Ga2VWMGl3TmJUNHV4V0h2ZkFERjE?oc=5",
+   "t": 1795835003
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《電零組》熱門股：三大業務助攻建通2027年展望樂觀- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DR0ZUdWQ3bXlHbTNhRlUyT1ByZHczUkV0SmcydlpYN2JyTVN0WGdWQjU1MzVNVlo2WXJna09rQUR1US13dmk4WGhRZVhVTTdiWDVIclZmMXN3bUR3a1BJ?oc=5",
+   "t": 1795834980
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "澳洲維多利亞州選舉投票　保守派可望擊敗執政工黨",
+   "url": "https://money.udn.com/money/story/5599/9907309",
+   "t": 1795834890
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "巴拉圭數位銀行倒閉案延燒　前經濟部長主動投案",
+   "url": "https://money.udn.com/money/story/5599/9907302",
+   "t": 1795834824
+  },
+  {
+   "src": "Yahoo新聞",
+   "cat": "us",
+   "title": "美股回神！科技股帶動4大指數反彈 道瓊寫4年最大單週漲幅",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNYk1GMFR5Zmc5R2ZzSUFfNFNJUFBRTHVHcGVvOGJrdnd3djlfcmtjR2VIYWd1QkNTZXJpeEFpNTNQUWhyeTNUUExzalY1MC1BMHpvRDhzVDJNbXNYeDM1UFIzeVJXWFF4d0ZHN05yWjZERngtWURNN1VyQVZuN0xWX01CUi03VnJUa01CdzJuVWoyc1dFOTJZZjUtSnNCcnJkaG9hNzgxQ2JvVHFWWnZHTDl2QXREaUFWNnp0UGRCNVVkUnZZNldHLWNQT2RmU09UM3cxSFpjeVE3XzBSNk53S1pYQUtmcUZrYUFrSC1qd1N6X3dJQjJqaXFFdWZJazJRb3hUbmNhZzhPNndqa2VxMTRBZlhybllXMWRaMm4xX2w5aHZDemhVdEVYUHJiNDZQS0l3dkpfS3ZvOGdUZ3VLbWg0dkEwZHJ1OXM2allVYU9UbGVJV0JENUVBdWdsa3F2NmpkZnNudXdETjZ5emVYTWlJMVR4ZUFW?oc=5",
+   "t": 1795834775
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "台積電A14製程就緒！1.4奈米晶片設計啟動 2028下半年量產",
+   "url": "https://news.cnyes.com/news/id/6674317",
+   "t": 1795834641
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈台新新光金法說〉AI重點筆記2026/11/27",
+   "url": "https://news.cnyes.com/news/id/6674366",
+   "t": 1795834470
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "台股尾盤強彈156點由黑翻紅！國家隊注資「這兩檔」捲3萬張 再撒1.4億元搶進009816",
+   "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPSkZPRVRHT3NwLUoyaXhoN0tnQnpwS0ZxTVNKdUhKQ0pxZkNjY2NXWmNQYnFmWGhHMElvUWxCak93bmlpYWlzZGdIdzBJOUpFdEdSMnlieGZTV1RDQ21qeWhWZ2tfdko2V2U0NXdNSTM5RlR5bVZQVmt0WHItX1BFT2hydzlkMEFUQ3ZRWWpIYk43ckR5OTlFN185aVM5Y0JtQkZrUnZTZG9tekVOZFJrN3FUd3hIOGItcUgtU0JPVjVQX0w4OHZqZFoyTC1VZzhjakNFUXVqbE9sRGtzNWw4cTk2Y3R2bjByZzZMSGxaWndyLTZUbTFDdE53bWduV29jZzVuOWd4M095MjlWMUlkWF9JVlFFNzdwRi02TUZJRmhQVDM2by1hODJxNm5XY3RMVkVHWndiblVqMERJbTByLV9ZRkVlSEk3X1dqWVR2STJQZUtfM0o0UVMxcTJvVllwTGpMTWJWa3l1YV9BbWNUZ1JMZy1hdXhJdy1laGVMbjE5SFp5REkw?oc=5",
+   "t": 1795834455
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "星宇航空 彙整",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzT1VSUTM3WEwxNmpNUUJKNU1qemJJT25IcVdtejhNczJUSjZsTHgtTnZ4LXluWXdNck9SQkNTTjhHYUxOWkVKQ0FBZnNLd3ZwYjh6VVQtbjJNZGZ1bjBWLWVwNDE4NXo1WklZ?oc=5",
+   "t": 1795834298
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "Coinbase CEO：由AI驱动的交易正以每周20%的速度增长，比特币到2030年有望达40万美元",
+   "url": "https://www.panewslab.com/zh/articles/01a22006-b1ca-7151-9f2b-9e30880f204b",
+   "t": 1795833639
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈國泰金法說〉AI重點筆記2026/11/27",
+   "url": "https://news.cnyes.com/news/id/6673135",
+   "t": 1795833501
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "在與激進投資者Oasis的代理權爭奪戰中，Glass Lewis支持Vail Resorts董事會",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T47900P:0/",
+   "t": 1795833420
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "挖人、竊密？蘋果與OpenAI對簿公堂",
+   "url": "https://www.gelonghui.com/p/7585875",
+   "t": 1795833306
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "黃仁勳王者回歸 美國擬對台課15%關稅……本周不可不知的五件財經大事",
+   "url": "https://money.udn.com/money/story/5599/9905253",
+   "t": 1795833000
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "交易员缩减对美联储加息押注，预计明年晚些转向宽松",
+   "url": "https://www.panewslab.com/zh/articles/01a21ff5-b2e2-7689-91e2-68df02975464",
+   "t": 1795832525
+  },
+  {
+   "src": "鏡週刊Mirror Media",
+   "cat": "us",
+   "title": "美股狂飆！道瓊大漲近600點創2022年來最佳單週表現 黃仁勳復職點火、AI股強彈",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10SWlzSzYyTVVwWFFvNzNNZEI1VE4zQVBLSE5ick9jVEFWTWFXcHhBOVlIRFcwWnpGMUx3aFdaN3BmQk8yNFJWZzZ3MjVIeEVOUlJVelkxODR1NjQ?oc=5",
+   "t": 1795832400
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "Toyota Motor Corporation 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0a1haVWRqSHF4LVJ0UUFhMmIyd2NyYjlYTmdmSXhRcnRSSmF5clZVSzFhdWp1MnoxUjk2X3JIb3E3WUdtZ0ZjMThhdkw1TjU2c0E4T2tLQVhXRUE?oc=5",
+   "t": 1795832256
+  },
+  {
+   "src": "TradingView／cnYES",
+   "cat": "crypto",
+   "title": "鉅亨買幣速報 - USDC(USDC)24小時成交量超過19.39億美元，BETA(BETA)24小時漲幅達64%",
+   "url": "https://news.cnyes.com/news/id/6674363?utm_source=tradingView&utm_medium=RSS&utm_campaign=content",
+   "t": 1795832120
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈熱門股〉健策三片式均熱片明年量產 周漲逾3成",
+   "url": "https://news.cnyes.com/news/id/6674169",
+   "t": 1795831806
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "前高盛策略師警告：風險資產將全面崩跌 逼得Fed 12月放棄升息",
+   "url": "https://news.cnyes.com/news/id/6673731",
+   "t": 1795831805
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "AI 疑慮暫歇 晶片股強彈 美股下周迎就業、黃仁勳作證與財報考驗",
+   "url": "https://money.udn.com/money/story/123398/9907166",
+   "t": 1795831778
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Federal regulators shut $6 billion Indiana lender in biggest bank failure in over two years",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQmRaX204N3I5S2FqZjVhd19CYzBRV0h1dVZLM2JuQVBtMkg5Y04yU3B5am5vZ21oYmMxYzZPVEdsVHFRZFptbUUzTHUtNTdTRE5ITlRGWTdZT2FwejJtZ0dPTTMzS3VORzliR3pTNWtZM1E?oc=5",
+   "t": 1795831740
+  },
+  {
+   "src": "經濟日報",
+   "cat": "tw",
+   "title": "台股漲778點　聯發科台達電收漲停",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Vkw0Tm1nWHpWR1lWWFp0ak96Z3lmSmFpaldFX0hQd2VKQ3VqZXo1MVBTaUFEd2EyQ2c3aTR2SkR3VURsbEZTUWF4T3RsVnVsZURkdDFEOEl2UdIBX0FVX3lxTE1FQmRsNTdmYWxpVUFrWG41R1ZsNFhuRU12am1hbW1UejdCQzV3WUxMRDdqVUltbzVsaEhIalFGNTRSRFk0YWpONFRWdWxYY1U4bHFzOTlMV24tVWQzaGMw?oc=5",
+   "t": 1795831657
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "觀點：比特幣持續反彈需要USDT供應量恢復增長",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VU85MFpHT0FUQl9OUWNBQWROTnhubnZJNFdSWnRmbVJseV9TM2tzS0xWWVJUUkMxVVhidktOQmg1TFRWYlgyZVIxQQ?oc=5",
+   "t": 1795831504
+  },
+  {
+   "src": "BigGo 財經",
+   "cat": "crypto",
+   "title": "比特幣終結連七週跌勢在望，HYPE、SOL、FET 領軍山寨幣反彈",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Hd3JaUDdUdEFwT0pIVFdpXzZYLVBhN2JKVmEtTDAwUjlRNUcwQjBYNzBGd3h1aV9GZUJadmhWY0FjVG1tMnNxcHBGdDlIaVM0dVFQQlNoR3pqckJOY3hoQzgzR003SG9zRnJBazlrSEF5dllqdjlYTHlB?oc=5",
+   "t": 1795831500
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "WWE star Bronson Reed dies at 38 due to ‘medical complications’",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jemJmeHJ4V2VVSk82Qmc4MU5iOGJwcUstSWNjZG9hMFphXzNCSUxjSjgzTWdMTnRwVk8yTE5sQjV1VUJRLU1xVnlMb0pJMnB0MzRCSmlYbGpvaTZnR2NzVXliN2lmVVFvMmc?oc=5",
+   "t": 1795831440
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "TWA00 加權指數- 台股週漲逾三千點，公股與自營商聯手買超- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jcWhmUkNONzZJZTBaVjBRT0lnYnprZnNNMzlsd1ViV2tUTkhHZndmTTIwSUZaMF9ObnE3MUZlUVdieVRybzZMR05XM3QwYjd0NXZDdzE3eXY?oc=5",
+   "t": 1795831372
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "金色早報丨OKX Star闢謠交易所被盜 比特幣與黃金相關性今年創歷史新高",
+   "url": "https://news.cnyes.com/news/id/6674346",
+   "t": 1795831245
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈熱門股〉川湖獲法人力挺谷底反彈周漲逾3成 新廠擴建時程提前2年",
+   "url": "https://news.cnyes.com/news/id/6674232",
+   "t": 1795831206
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "高利率壓垮房市！冰島待售新公寓年增85% 建商新案急喊卡",
+   "url": "https://news.cnyes.com/news/id/6671670",
+   "t": 1795831205
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "疑似Kyle Samani关联地址解押52.78万枚SOL，随后卖出约1000万美元SOL",
+   "url": "https://www.panewslab.com/zh/articles/01a21fdd-4538-703e-a64e-5362868b69cd",
+   "t": 1795830924
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "最新時事| 第 881 頁，總計 881 頁",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uYmFOMlFNb0s4UVgyN2N3ZFZPY0JObzd2ZFJiWjlURkROUklfU282RHNBVnpFRV9fMkZ4dUJPb0hvWG80VEQwRU9qaHhxc0lvNEtMdg?oc=5",
+   "t": 1795830893
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股到底跌夠沒？專家點出3項止穩訊號盤點5檔權值股、記憶體股潛在買點- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUS3NoaVgyTmxkSC1sbWF4MVpYNmthcE1HX1BSTU9xQUN3V0E2Y3drYU5iWXhuV2MzSDFaaWJwV2dfWkpDajI4RGxVTjVoVVUxUGpORHVWbjVSMkNYNW5j?oc=5",
+   "t": 1795830480
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "交易员AguilaTrades“割肉”清仓2440枚BTC多单，30天利润缩窄至704.4万美元",
+   "url": "https://www.panewslab.com/zh/articles/01a21fd5-ca83-7516-8c19-3a5e9722322c",
+   "t": 1795830434
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "美国 XRP 现货 ETF 单日净流入 539.77 万美元",
+   "url": "https://www.panewslab.com/zh/articles/01a21fd1-860b-746e-8f8b-d3200547b34c",
+   "t": 1795830154
+  },
+  {
+   "src": "Moomoo",
+   "cat": "crypto",
+   "title": "$比特幣 (BTC.CC)$啓動FVG平衡調整多米諾骨牌效應!!!!! 1個角色變更 2 在結構斷裂之處",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmdDelpvS3I3S0hPSWV4WWJoM2lqaWdSX3hndXVBM2ZQVlljdzZaZkQ5dzhNMFlBa2JGSmlSZHlYX042TlFxSHdrWEhrOGRlaE9qMFk1RzVCUWVLUmtYOTBBWDd2c2JqUFUzNUdXNkRTZmNZcjlJUTViQkRHQmFxZW9DYmtHcmJvSFVLc3ROUGV0cGl1cF85bzJIM3liQQ?oc=5",
+   "t": 1795829969
+  },
+  {
+   "src": "TradingView／PANews",
+   "cat": "crypto",
+   "title": "澳门与珠海警方联合破获一起虚拟货币跨境黄金洗钱案，涉案金额约1084万元",
+   "url": "https://www.panewslab.com/zh/articles/01a21fcd-9596-76d7-b89f-9aa5d0547d4c",
+   "t": 1795829896
+  },
+  {
+   "src": "三立新聞",
+   "cat": "tw",
+   "title": "台股守穩3萬9！「19檔」跟著國家隊區間攻防",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QLUhyQXhLZUE5dWd1VlNUUl9JVDlsUTJMMHhuZFV4WmZLTXM4N090OG9WTEZVYl9RS0JGblpsWXN6T1ZZazhLWWlmQQ?oc=5",
+   "t": 1795828933
+  },
+  {
+   "src": "BigGo 財經",
+   "cat": "crypto",
+   "title": "比特幣再度跌破6萬美元 單小時2.28億美元爆倉、美ETF月流出創新高",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRc3NsaHlGY3pkVGRuQzhLbFFsWkpNY1RmbUp6MXFsUUVhMVcySFJVelJMbVJ4clJDc3NSNXltVmFaNmxkTjhrQnRZY1dWYS1WcmtZMkkzMGZRVFNqVnQzWGplN29PNEpVdWczcE1LSmFTY0t5VmNYbjlB?oc=5",
+   "t": 1795827900
+  },
+  {
+   "src": "富聯網",
+   "cat": "us",
+   "title": "《美股指數》27日S&P500指數漲114.71點，為7297.49點",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWx3TmlEMkRMSlBSenVtbUc0Tm9NbjVDQUpyamwxeTFiblI4NU5jNER4VlI3X1B0ZHJSN1NhR3daNWlzYTZRTXhWSUVEdFFwejJTb3pfejZfQ1lOa3R2M3NCMS1zMFBQX0tya1B0NERKbVVMZnhueHBJUUlFak5jeHhHblNLNEIw?oc=5",
+   "t": 1795827660
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "迪士尼首席技術官在AI初創公司破產案中收到傳票",
+   "url": "https://www.gelonghui.com/live/2784020",
+   "t": 1795826982
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "荷蘭抵制美國新規！反對擴大半導體曝光設備對中出口管制",
+   "url": "https://news.cnyes.com/news/id/6674316",
+   "t": 1795826593
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股現在是「甜甜價」？多頭總司令張錫開示：台積電2年後拚5,000元、聯發科估值曝光- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5U3ZicFJ1WUlhUU14YmlzcmctbFNkNXNEWk54b05MNWM0UjFmMmlJNm1jeFY1dFI0eU1PLWY3bTliNnlXUE01NGZmX1pFOF9FcmtjRnIyUmtvdGg2R0lN?oc=5",
+   "t": 1795826100
+  },
+  {
+   "src": "商傳媒",
+   "cat": "us",
+   "title": "戴爾AI伺服器積壓訂單衝上1323億美元 美股期指齊揚",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPVzNXQ1RQYUxBaXNCNXZnUjhhS3ROZ1Z1ZkJjNjFsb3dHNmVibmV1NEwyQXE2MFFBcENzbi1Jb0VlZ0RRcDN1LWJNN2d3NmxTLWdhcjIxb19laXZ4SGF4NHRDcF8tbWJ0Z1dYYkdEYXBuOFhKek5ZaFV5R0VQbEotbFFHMTh1Qzljbmh6VVc4M2FTUlp1cHRobDhrc0JMcUhsdDJEUWp0Z3lIWV9Ua0J1VXJhYWRCLTR6S0dQUllxV013MFk5SGdVamhrWHpTT1BfdG5KOWdyZmpkRzIydFl6Z3NnaVdIS0JHQ0pDV3RPSG92MG5LR09kWXcxLWg1NWxEeEUydllzNjRhWl9aMHBFbjl1cTl5WDZmSXh4Smk3YWNXSm5vZjFxOHYwTU16S0tNNjJzQjR6aUozeTVTOE44MUNpa3ZiT0tOc3BSY05wV094UF9hTmJmVExWNA?oc=5",
+   "t": 1795826100
+  },
+  {
+   "src": "商傳媒",
+   "cat": "crypto",
+   "title": "比特幣失守6萬美元關卡 加密市值縮水近4%引發清算潮",
+   "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNSGkxRTZqS2xvaDJuX0ZlTkliYU41TTJfSmMwblczejVqMkRFX1YyMklYVjRFUFdrZmItOVpkaUdkN0tId3IzdFJrRWRZc1lrQ0FzQkRfcTBlQXVJSkVVODhfUXY0ODRVa21VNXMyRkxmS1hOSG9iV25hbVJVMW1YZ1c3S0pXa3pMWXMtcE1kYUlkX25vVGU2WmptbW84TDhLd2k5MFRQdHRlVW9uVGRYYkFLeHNSN0ctX2ZGLTVGWVd2eFlqeXJfdEhRQWhkNkNxX3BLcHJyRXJfZ2x4MFE3MFRUSlg0SHFXVGxkdGRvNUJpYU5jQTdiTUxySVRFU29hdHpKMHVYVFkxSWJHNHN3WkVkek9KSFZ5My1TZGN0RXI3MTdRSUh2a3A2dm96RFFRRkNoWjhQOWxFYXNzNnlqTVRWbV9HeVBLbkF4M0R1Z052TzFsVEFBWWhMbm0waW1kakE1UHM1VFFqVkRxU0lpSlhn?oc=5",
+   "t": 1795826017
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "I’m stocking up on fashion basics from Gap. Here are the best Black Friday deals to shop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81UDVtekdFUjIySTdzTldHN2t6YzhOVTRnVVZWcWpXVUlZUlNvYUY0SXpKOVYwTThNZkhuRTA4REtnN2hJQlpMdkwyMFVfNE42Qi1PcmFmbXJObm5PWmJfdzV0MW5BUURuTTc5b3lEZzREZEpXV1M1X19WZkdtRmc?oc=5",
+   "t": 1795825800
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "4743 合一- 生技股的退潮，合一的非戰之罪- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84SUNMRXFjSkdycWVaZ0lEU21DcUxLMXVZNHlkak1tT2tLU3VCRy1VRS1EWDhNZkhCTnp0U0IxYy1zUEdGcEdSSkJOa3VkdWR6d1dYNW5QLV8?oc=5",
+   "t": 1795825672
+  },
+  {
+   "src": "TradingView",
+   "cat": "crypto",
+   "title": "贝莱德将价值约4.08亿美元的比特币和以太坊转移至Coinbase Prime",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jOUxvRjhjRnRJUVNvUHMyVU5XR0daZWpRcExCdnM4aTM0bzIyLVdtUDdTcklCUkRnUEhDQ3ZlRVpiMzQyaHpTTWFZRnBkLTNSQkE3aS12WmZtQjBONFAxckxDemk2dw?oc=5",
+   "t": 1795825164
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Quince is slashing prices during its Black Friday event. These are the items worth shopping",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0VQMVBMdGxwMkxWN0NFeGpRenRydXdHRDRvUmtKRFJGei1URWFRVGNMbGRPam9mTGtwazRoM05sRURhM01PRVI3MzRqQlh4N1IxZmM1Vzd0dFNZUEh5bm9xRkxxREl2R1lqM040M1dsU1FjWkt3aUs1UTNVSDJvOVFPYw?oc=5",
+   "t": 1795824480
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "花旗集團350億美元記賬失誤引發高層人事震盪",
+   "url": "https://www.gelonghui.com/live/2783994",
+   "t": 1795824384
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "Adobe稱，美國“黑色星期五”在線銷售額將突破130億美元",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T479000:0/",
+   "t": 1795824089
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Trump says he will ‘veto, veto, veto’ hours after pledging bipartisanship",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkU2aWROcmxoSlVZNVJMSXpLSU9rZ3V0MnNrdmt6SWd6QThpSGJqcUJMQVFhM0FpbFJydUVGX1pkVGkwRTQwaHVzMTFBcFJaSzRESWJkN1JVQTNFekh4OU53dXhPbjV2MVZXRmktODFPdTd1bFZHVHIyWkpwaTRmbzVZT3E4Q25xUkxiX21IRlMtQ0FUalZibFUwYU1iSG5GU1pfUUE3QU1DOG5DZmtmdExkbC1ZR1VT?oc=5",
+   "t": 1795823112
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "緯穎(6669)傳出有望納入0056成分股，法人預期對股價結... - 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iZXVfWWF5RkMycjRvX00tQ2FFMEp4UHgyelZGeE5FVmw3S3RvWTN4MjFqTDhTbG1ZeVdjSW1wZVhpQ2pzd19KdUtFaFV2NmVZaHllNW1RMTRMY0F6YkMwWXhzc0IwUzl6ZGVlVFVSWkd5NzJPSU9PZmZnNA?oc=5",
+   "t": 1795822964
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "Meta因AI代理Muse的用户條款受英國監管審視",
+   "url": "https://www.gelonghui.com/live/2783981",
+   "t": 1795822726
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "歐盟或於下月投票批准特斯拉輔助駕駛系統",
+   "url": "https://www.gelonghui.com/live/2783980",
+   "t": 1795822688
+  },
+  {
+   "src": "TradingView／Gelonghui",
+   "cat": "us",
+   "title": "Anterix考慮大規模出售900MHz頻譜 SpaceX已表達收購興趣",
+   "url": "https://www.gelonghui.com/live/2783979",
+   "t": 1795822515
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "3491 昇達科 - 本週千張以上大戶持股持續增加0.38%，100張以上大股東人... - 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83X2ZFa3BVQUk2cmVMaUhuX1ZUT3V4YXV1RTZfdnZncWMxZ2R4SkQyUlhCZDNSWTJXMzg4SHZNdmdrd3hnbnVkR1dhUDJsWUhSaHZ1eGp2QXM?oc=5",
+   "t": 1795822474
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈熱門股〉華通LEO題材夯獲外資回補 股價周漲20%站上月線",
+   "url": "https://news.cnyes.com/news/id/6674310",
+   "t": 1795822221
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "台股收漲156點！外資連10賣，官股進場護盤- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aT2JNTlIyVHNzMDdKcU5UckpfOHhSb0pCejkxN1RMam1NaTdFZ0VIeHdZcHI1YmdTRElqWUw1cnRvR0JQVzZuZkJvQ1JQY2xTZXppNDYyV2FlRDIzTEpGV21Gd3NoSUFsNW54OFEzUU1VSzkxM1FjaDFR?oc=5",
+   "t": 1795821711
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "BofA喊輪動進場！非必需消費股受青睞 十檔量化強買名單出爐",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zbUwxOTA0TGkzeFBiaG50Z2NTOVV6T0stbUlSSW1weEkzYzZ6ZTU2N3dTaHQ3TjFjMU5VMXpEbktmdTVvWnhlZXEzNnFqMHl3ZlktX2hycUhBTXUxdW42azNCUk9uYXc?oc=5",
+   "t": 1795821676
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股何時值得再加碼？名家拆解落底訊號從融資、外資、台積電找線索- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUkYyTlRMdEdYNnhXbXpwM0wwOGg5MS1pM1owQUxyREpjNVlURVZ3a1d3MktsajlxNmlWdjk2TkpMTEZ4Smx1OW02ZkJpclJabEplbVZwLVdEWXJZUUN3?oc=5",
+   "t": 1795820940
+  },
+  {
+   "src": "Yahoo新聞",
+   "cat": "us",
+   "title": "科技股回神結束震盪一週! 美股主指全漲道瓊漲591點、台積電ADR漲3.21%",
+   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOa1AzMzVHVXNvN0k2c0lDSDZwNVdMOFRFRG1QLThiRm1OczNqSk14QnJLV3ZXdW4ycHhJSUZWM1k1M1NXOHQ5Q0N4VWNhUElBMWNmdVNsVnk3MHFCV2ZfTjVINkg4WmZhUlZkZldjRGNSMnVSZDRPYVFteDhSSVdZTkhKd2hzYlNwTGtVNUxyYnMxMnFvSkRQZmlsc3BLelRELWRGTkM5Y3FFTlk0c1E0a1dOTjNjMExkNzFwN2h1anhuRzcxMlE5YzRXb0lDMzgtLWhoRGE5VWx5X2dNbWNXWDFBOEhRckJta2xuM0VmUC1Jc0Y3TnlrZnNldUJ4UVRRcXR6ZWp0TWt0bTJhN1VKTmNvZE5uWmpmYW1NNHZpRlgzaEY1OGRnbXJoWFJXMzlfcm1WR2pYMmw2MlZKNThZeFl0a0k0YlVYRGMtVTJhaTROV2MxbXFqSzNQbF9sNDBDMXhUdkp0ZFIyMVowYVE0dVMxQzdhTDhaYlNRZnk5Yk9ocWRY?oc=5",
+   "t": 1795820632
+  },
+  {
+   "src": "CMoney投資網誌",
+   "cat": "us",
+   "title": "美股黑色星期五急拉！S&P 週線飆升5.6%、11大類股全數回補失土",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXB6cmsxS1RWdTVPLVJTQmxibmR2dF9GSkFwT1pLRzc4NXlNTTgyVWxGMFJxZUxvSXpldUF5V2dnRVhnZ3ZXUDJRU2dmWXh6dHZ0VWhwWXEtMWJDVzRfUEVVd0tENGoyVEZmOTZzdlYyWTFCRjMzclItekkxNDRlN0tPUHJTS3J2ODVZV1RR?oc=5",
+   "t": 1795820614
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JejA4ZGhqYXg4RnM4WE5tMXB3elVpdmxMSTV0Sl94NmhTUUNBdGlUbTVlZHQtVV9jdUFicE5mNDE5OExsWUFib3BMYTNmRWRKRUdLS2JVZ214a0lFM1otcFpHNF80dzBnTGRnc3ZnV05xWDVUZVJDUW1Ob0dLSFk?oc=5",
+   "t": 1795820029
+  },
+  {
+   "src": "Yahoo新聞",
+   "cat": "us",
+   "title": "感恩節後科技股領軍反彈！美股3大指數收高",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQMWZ0eklyOVlCQU53M0ZIUzVZTXB5dnktdGsyeGYtZTB4Y0lrQ3B4a1hIMUd2VUZRYTUtOTIyVndnQTFlcmJzS1F2OWxuZERDQ1ZBV2ZMTFA4MmZMRVQtWjBjaGQwT1pZR0tVSktHeWRYRGpTb2ZOTjVWeTFvZVQ1cmVoNzh0MGFfRkltRDBRUTk0enlRQzZNR29rLVB2QU5oazR0MU5tN1p1alA5STBsNjgzbk5FMzg0SjRwWUNwZFViQVlwOFVTc2RMMzZWckNwOWIzZUxrNm82Y3pyU1hzcmpNUjNwLXZoa1I5eEVSVWd5ZFdSQVFlOVFheHN4SGMwcEpEUVV1TW5pdkJsNTd1TnphRDhtaVEyUldWTVkyZXdFMVhYV3Z3Z2tNb285dw?oc=5",
+   "t": 1795819119
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "台指期夜盤量縮震盪收跌197點 仍穩站3萬9大關",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOQmZOa3Fub1RRc3lHcTVhM0k3MnVPN25kaEl0aDdNYWVTRTQ1OHdDbVVZM2NIYlZLNGVTS0pMZV9EU1BLb1oxY1MwZkdvWVEtOHM0YVdod1F5ejgwbWpTMkRoUlVtZ05mZGhRc3R6UHRtVlVfYUtZSzFtSERmbzlMajB0c1pCcFNHYmlPMHI1N1lSVlhGdzBBOWtuNkF2bmYyLTN1NjVLYVNHZVFHN3hMSFY4QUJWOFFaSWdMLTJTTm53TjhzU2lBT1VWRlRKalQ2c2JmQ21hNk5zbHZxalZ0N2NwMXNaQUpxZ1hFbmVtNWttaUNidm56dDUxR2lLdlMxNGFzMFAzU1ZjNVJDeFRjOGliOWJTVnpVelJzNHRxZWYtS2d1a1Vhb3dpYzB2ZjNqanNJZHN5ZjBRd0U?oc=5",
+   "t": 1795818040
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795817571
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "在與激進投資者Oasis的代理權爭奪戰中，格拉斯·劉易斯支持韋爾度假村董事會",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T47816Q:0/",
+   "t": 1795816914
+  },
+  {
+   "src": "Facebook",
+   "cat": "us",
+   "title": "AI股反攻！美股收高近600點 台指期夜盤反跌",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeml1WlJtLW9pRkg0YW9LVFdoM1E2eHAxMXFNU1pEUm9MTGQ4ODd2a3FqN2RTNVRQNFVGZU9ad0Z4WnFGRDhfNzdWVDdWSWREdlE1Z1dwLUNuNV9WcWZDdUdQQ3NxSGhsRGZUZi1GTXdhZS1uSHBFSWpfLWlZamwySVgtejZxYjc5Sk1MQWxZSGxKVTl0SGp4aEtsRkVSd01JSmhnMHNjdVJPNUIxVDRfSzR6cVF4bjRxZUhlMXE5blNUZTNIdjh2U0ZoN3Y1Sy1mSEpFTERrV2tXZjh1Y3RVQnhiNVhIaHZxeVFhN0RXdnMtRkk2dlhocWlMZmFtcUk3MEd0SkhKNzRXaUllMjZkTDRvNFd5ZXpvRFRlaXM2MlFfOHNheXNFMUZaU1JxaHRI?oc=5",
+   "t": 1795816847
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "比特幣跌破61,000美元，24小時跌幅0.65%",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ebmp4LXpuR1d4U2kxRXdyYVBKbElIVFY3dnJ5dDlZTTZHVnMtQWZhTHppMkVILW0tM1VtTjM1dVJyTUxIcmFmX0VzeGdBR0E?oc=5",
+   "t": 1795816797
+  },
+  {
+   "src": "自由財經",
+   "cat": "us",
+   "title": "美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XYjQwX2UxYnE0bVB5RXFITmJsb1gwUVRpbkNJbFZkb3dJekt2T2ZIaE9zX2ZFZURDNjVYNW5iRHIxNGJORkZRd3Z3UlZWS1dIWHI1dGVBS3B3eGQwUkdr0gFkQVVfeXFMTjNGYkRhQ3N2dGZCa1RwY3RsNnFzaXJhUEUzcjJ2bUFrTHdLZTlWMTU3SThHbWdUOXI1WTEzUmZiUHkwMG5Jd0w3RWhQVjNIYTZMdGM2T05RVHlpSDY4ajEwb0dqTQ?oc=5",
+   "t": 1795816652
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+   "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+   "t": 1795815963
+  },
+  {
+   "src": "商傳媒",
+   "cat": "crypto",
+   "title": "比特幣自高點崩跌52% 長期持有報酬率面臨考驗",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQNDcxSmctNE5UQUVHU25oUjlJMkozaFJucFNvR0c0Q1NKTmkycXF3a21UaFYzSE02X1pLLVJoSmUyZFAxWEtYYkdveGR3ZE1lQXd1OVdSUFBxbDJLaHJ6dkxpT2tWamdHMm9fYmxhdHJmamoyaElJQzNQb0Z4Q2Zxc0JweThHOXd2Y2NjUmM1ZVpKUmNkakE4Q094bnFMSmtzT1VPQ3AtcFNUaW5aQU93SUs1QWFwYzU4WWo5ZW9FR2FicTZWTFRUQjdKZjBNNEFpUnBMb2EwdG9lZ2NrQzdtcmtWRTRpR2R3UXJmU3p3bm45cG03T2ZmU1ZNN1U5OVdUWlpwMng2cnludVFCNTZYV09zbC1rV25kWHFZUGxudmJFR3RGVXB4dUs4bVV1dzZrVlhSbDZuU0hEbTRodDR6UjFGaW0xV3NlSURtdTNn?oc=5",
+   "t": 1795815955
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "統一證作為券商股如何受台股成交量影響- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WLWpPVm8xMzdLcnRiQmo1a3c4ang5dVlVcWNxa3NZZWFpUmliMVNnNGg1Z09yZkxUQUNXUERUckZZTzJzazBpLXhUTHBMWGgwa25Tcmx6YlhGam9mUnlLajE1WHl2VmNnS3JsT3FidTZCVk9lU0t1WFlzYw?oc=5",
+   "t": 1795815688
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "11月28日熱門中概股大多上漲 納斯達克中國金龍指數收漲2.96% 日月光半導體漲6.27% BOSS直聘漲6.28%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42VUpLb3VvRUZRNVlVblVtZlN2eXllRzBJLWsxUDdmb3gxVF9ZVlRfUG1PRkh5RTB2TTQxZWxQdm5TR3kyY1h3YlBRZWI3UENScWtFQ0VMbTg?oc=5",
+   "t": 1795815504
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+   "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795814129
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+   "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+   "t": 1795812362
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41Rm5NZm5vcDlXa243YzVjVUNmT2ZGa3luYXZWaG1OVzd6X0xQZUh5ZnlONUVQNlJUY3g4VW9vSXV1OEtEYWxEbk9kZ0pQR1k?oc=5",
+   "t": 1795811026
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "鉅亨速報 - Factset 最新調查：Madrigal Pharmaceuticals Inc(MDGL-US)EPS預估下修至-2.05元，預估目標價為665.00元",
+   "url": "https://news.cnyes.com/news/id/6674275",
+   "t": 1795810532
+  },
+  {
+   "src": "經濟日報",
+   "cat": "us",
+   "title": "AI 股帶領科技股跌深勁彈 美股收紅",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsdEJOU1pLZ2JDWk5GeWVJT3ZfT05fNk5YY1JiYkptQzA0RE5xQWJLXzRNSlZaRkxRbHFSTmFoaXo1eTI0ZFpBWTlDTmFDc1ZERl9RcVVhaXNLTS1y0gFiQVVfeXFMTng1b0hVbGY3U1dQR2JoTTNWLW9TLXhyS2FNd2pjMXVUQktVQmlhOHlFbGMtQVhkdnRySXFmbWQwdkZjZTFLeVlwTTNTejRrVlV4TFRLY3Y5V3pWXzlwY3JkSmc?oc=5",
+   "t": 1795810342
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "OpenAI countersues Apple in ongoing trade secrets fight",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdE02Z0NlMGNqS3VHVVF1N0JrUHhmRy0yay1wNDhhamdXdF95UkVndjh0akw4cF9uUU15TmVNd3NVdGU3UlpXNnFfUm83dkhPbWM4eEpEcTJOS3p1U2swandyMGtDMWRWc0FXWHZVQjc1dw?oc=5",
+   "t": 1795809511
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "《全球匯市》美元勢將錄得周漲幅，澳元因風險偏好回升從一年低點回升",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T4780X9:0/",
+   "t": 1795808788
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+   "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+   "t": 1795808762
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Market Wrap: Stocks Gain 5.69%, Led by Basic Materials and Communication Services",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVdkU1o0SFVTU2VZcFdkdUZhVGVEVkNWaGRHcGZRLWpfeHU0aTFPekRuWWhZUTlyWi0wU2VrRENHdnBSZDhTMnVlVzlHRVFxYWpLWGtRMURfT1QtYjRLRkRWWVN3ZXJCU29zSXhyd1hxUkI2eHQwODNIbVFKSTUxYTd1c1M0TXdBeDY3eHdPSGhyME9pYmhJUXkzWXFFUHMwUmRuR2VTR3U3YnRLQ0E?oc=5",
+   "t": 1795808517
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "美國債市：公債收益率上漲，投資者關注非農數據與美聯儲動向",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T4780XE:0/",
+   "t": 1795808338
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "台股重挫嚇壞投資人 11月消費者信心走低",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVEI5Qy05bTh4VU1Cb0tsR08yTmxOb1AzRzRYOUQxb0hfa2p2UFV1SHhzc0RuSUFZLTY0cmJXQXJ4WWhGaUhzUnRac3NnMzF1X2tiUFFjRFpnQXkyNTE1QkdMZEZqanFadmpsQkREZDdSMU9jRkt6SW9MWlpBLV9VM0xvVEZpSmEzZUMtTFBTMS1SR3ctdC1ITl9SMlgxemFfbHNnaWM1NGJnSVdsNFVjQk5ZUmx5SEhidzMteVhBNmZ5WlZteGFid21FSFpfVXdBQTJIZ0ZIdkJoZDZWNTMtVlhuYmJ1RFlEWkhISkJaWWJCcTJoNlhtNDM5blhPM1pKOTdPQ1BSRHBSYkRRdkgxRmJDLUNCZnNHRERHU19iblBrejBEUlE2ZjdWYw?oc=5",
+   "t": 1795808298
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "美股收盤／晶片股領漲，那斯達克升2.31%標普創去年4月來最大單週漲幅",
+   "url": "https://news.cnyes.com/news/id/6674265",
+   "t": 1795807809
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "OpenAI反訴蘋果竊取商業機密，雙方AI硬件之爭升級",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T4780WU:0/",
+   "t": 1795807511
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+   "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795807380
+  },
+  {
+   "src": "CMoney",
+   "cat": "us",
+   "title": "貓醒了，週五美股上漲😄 提早收盤- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZkJMeVdLYUZsdm5scW1BdURuNXo0Wjg5Q2JabUVmUHBQN0RPTjBodXpGeWhCVUZNZ1RxRkg4WlBrekthWUVWM1dFb0hjN1ltNjhvdThMekQ?oc=5",
+   "t": 1795806718
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "美國股市：收高，受助于投資者逢低買入AI概念股",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T4780WM:0/",
+   "t": 1795806052
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股還在震、這15檔低點已墊高！南亞科、華通入列法人周買超各逾千張- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iVU1jSmJOcTBuQ0xjVHo1ZFZEeW5feC1xc2loUWJta21Ta25CT3JVRENrNjRpTjllZl9xUWp2enFzZDFNMU1hN09NcGhDQWY2aFdEQkdybGpNc0tfWXdj?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "注意股、處置股怎麼改？證交所敲定兩大方向最快12月上旬報金管會- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XaXpLLXVCRGJVVnJmTWtwS1MyaS1ZM2JZTlNJbHdJMktOdmxXT0psYTQ1dU96WWJGZnJNTFhTUEJlOXhkTGJaZnhjOE1NM0RPS3d0NXcwUDFVLVNpX1p3?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "黃仁勳歸位遇鷹台股聚焦三主軸- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MaWRyVmx3WURpU0t2ZVBzSlJGazZjbWJSb0phUjdsbVQ0Qk1ET19MU0t4UUd6YVAzdGREV255R1FXLUZCb3JOUU1udFNrTi1Wc0diRXgxS1ZUY0VCZkk0?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股選後能站回4萬點？名師看國家隊防線在「這」 法人揭挑戰月線2道關卡- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10bFg0UEF6NzdyTWlmMVVReER5QnA3VWxRSXhlSjJKWHFzZEQzUERWMmpzdkFSR3cxYk1zcEtyVTVoZG5HaUg5MnI5MlMtc1I3MXZJOGtJRXhpY1Y1b1Jz?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《俠盜獵車手6》夯爆PS5概念股狂飆- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0ZGRHaXpGTkxVRVVzeTVMUGpYTkxuYWxTTVBfQXY2SWNFN2NmVFBOR0VoQXJLU3NvZk1Nc19HSjM2R2Jkb2VJSVhVbkpFWnJFY1Q2LXRSam84dExIZDNr?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "程泰、伸興股臨會前和解- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcUoyLVF2WmJsMGJOMlJtMWVjQ0FNUVRSWDZoN3hlUEpNMnh3SU5fOExNQ2IzYzdlY0J2MGJUYXIzQnNuTVFoRy1SR1dncFZoVEpNZmM4YWRBR0xtanFB?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "ALX Oncology Reports Inducement Grant as permitted by the Nasdaq Listing Rules",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjJXanpkNk1WRUdBeWExdkxlV1U0WHNienhoekd6dDhsNk12dTdtZ2xCN2Vlc1diRi1fV29zOHF0T0U0dlBoZFozNlBaMlhWcHpuYmRTUXRyNUlQSWltQzQxX2lSdWM4SHBNUy11S0dEeHR2anBZV0h1cktCdUpzZ2xTZzZ4RDNBR2hGNThSU1NlNUhJNW5FekJpS2Q4S0dad2lQUHJDbnl2MFVFcFJpdVVyU0dHY0Z6WFpMUFo1dUxYQTVUSGtac1ZzNC1hTkU?oc=5",
+   "t": 1795806000
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "6435 大中- 大陸穩市措施效果佳A股創逾兩年來單日最大漲幅紀錄- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zcWQxNThReVZRaDZmZi1jM0ZmdXJSUlEtRWhlOGNOVGcwN2xib3F6VUI5dTIxbFFlZUhpaTBPUDVVcGNhU2FDTVpJTjEtcm5jR0J3ejdFd04?oc=5",
+   "t": 1795805187
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Iranian ambassador tells CNN Iran is willing to negotiate with US",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEptblJxaFdsaENUdFhWdWZYRjZlQ1FjT0YtRGtwVGhtbElMc0FVSUlzYWpwejV1VXV5VG1LYS1vQU1OOXpGMk9rbnA3NktlYmZJXzVOZmVjZFJfbjdGaGVxWlpzWlZJMFUzTzF0aFM0aGVXV0djcHkyS0xwV0hSSFFVLW9yMDRuM0o0US1ITUE2bkRrSFpScnA5OTdDb1pKZGFzbA?oc=5",
+   "t": 1795805074
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "Vulcan試圖推翻墨西哥仲裁庭作出的微弱裁決，並提起第二起訴訟",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T47813S:0/",
+   "t": 1795804446
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "波動的股市將面臨就業數據和利率預期這兩大考驗",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T478136:0/",
+   "t": 1795803582
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "據《金融時報》報導，威瑞森正就以60億美元收購Fidium一事進行談判",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T47812P:0/",
+   "t": 1795803478
+  },
+  {
+   "src": "TradingView／Reuters",
+   "cat": "us",
+   "title": "AI領漲，但漲勢基礎更深厚",
+   "url": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L3T47812L:0/",
+   "t": 1795803427
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+   "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+   "t": 1795803363
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "鉅亨速報 - Factset 最新調查：Regency Centers公司(REG-US)EPS預估下修至2.32元，預估目標價為84.50元",
+   "url": "https://news.cnyes.com/news/id/6674249",
+   "t": 1795803340
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "鉅亨速報 - Factset 最新調查：KRC臨時(KIM-US)EPS預估上修至1.03元，預估目標價為26.50元",
+   "url": "https://news.cnyes.com/news/id/6674248",
+   "t": 1795803337
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "鉅亨速報 - Factset 最新調查：布里克斯摩爾房地產集團(BRX-US)EPS預估上修至1.2元，預估目標價為33.50元",
+   "url": "https://news.cnyes.com/news/id/6674247",
+   "t": 1795803335
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 和康電訊(MTSI-US)大漲5.29%，報210.52美元",
+   "url": "https://news.cnyes.com/news/id/6674246",
+   "t": 1795803307
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 科磊(KLAC-US)大漲5.01%，報140.93美元",
+   "url": "https://news.cnyes.com/news/id/6674245",
+   "t": 1795803305
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 泰瑞達(TER-US)大漲5.36%，報223.53美元",
+   "url": "https://news.cnyes.com/news/id/6674242",
+   "t": 1795803292
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 芯源系統(MPWR-US)大漲5.18%，報1256.47美元",
+   "url": "https://news.cnyes.com/news/id/6674240",
+   "t": 1795803248
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 英特爾(INTC-US)大漲5.33%，報57.38美元",
+   "url": "https://news.cnyes.com/news/id/6674239",
+   "t": 1795803247
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+   "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+   "t": 1795803225
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 英特格(ENTG-US)大漲5.09%，報134.9美元",
+   "url": "https://news.cnyes.com/news/id/6674238",
+   "t": 1795803158
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Why Has the Stock Market Gotten so Volatile?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2c0VWxBZzJDRHVWaUZZN0FteTM1MTlKLWMxSmFUTElvN2lCTVZtSnNUQmVtYmNjbEJiNWFEc2JibE1nOG9fM2VoRldDTHpIR0pqcmdYUFVMamNPRVFTN2gxdmVkX3F1V200RFNOUHVsX0Q1SFZyYXpvR3pBMkFGUw?oc=5",
+   "t": 1795802807
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "AI交易回暖 美股集體收漲 Anthropic漲11%",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjBTMl85OUxpQURfNFBhX2dqZXRoMXF4RnBDRzUtbzh6RUN1M0lQNkxaS0JLTkwyZ0s5Q2ZTM3V1UHdxZGp1c29IZV92NzZ5TWZUclE2YnU2dnczN1FUOG9UbzlSVmpaTTBSMzZiVFM4cXlwR2c1M3lMQ1JCVXdZZlRZQU12VkdLSExTc2I5emZRcG9xTkttQkFmNlRvYmt1eC1OeTk1MWtnQzQ?oc=5",
+   "t": 1795802787
+  },
+  {
+   "src": "TradingView",
+   "cat": "us",
+   "title": "美股收盘光模块/高速互联、半导体与存储普涨，闪迪涨超15%",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMV9vSGNEZ0hIcW5sTVNEUWxTUTVRWXJ4Si1jMHJaMlF6RGZKQURLb3F0TTQtbDg5aDZkYWtTSEtpVEV2MkVubDN2a244TnEyU1RVYTBLcnAwSzlFN3h4N3h1ZEpZZw?oc=5",
+   "t": 1795802460
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+   "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+   "t": 1795801409
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "China sets March 2027 rollout for blockchain identity regulations",
+   "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795801043
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+   "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+   "t": 1795799370
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 萊迪思半導體(LSCC-US)大漲5.02%，報103.16美元",
+   "url": "https://news.cnyes.com/news/id/6674220",
+   "t": 1795799139
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 安森美半導體(ON-US)大漲5.02%，報65.62美元",
+   "url": "https://news.cnyes.com/news/id/6674216",
+   "t": 1795798183
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795798131
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 高通(QCOM-US)大漲5.06%，報177.2美元",
+   "url": "https://news.cnyes.com/news/id/6674211",
+   "t": 1795797322
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+   "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+   "t": 1795796500
+  },
+  {
+   "src": "自由財經",
+   "cat": "us",
+   "title": "科技股帶頭衝！美股早盤反彈輝達獨走跌 台積電ADR漲逾2％",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUTMyNnVGUzI5bzVOaXowb1E2M1haQU1sYUltYkpwQTg0M3dtWHRSZDB5bnZNVU40RWQ0QzBzUjNxTTVBWk9YWmpoLVNNY2RUWnNiSTMxdVJZZ0wwdVBr0gFkQVVfeXFMT2VvQ0ZxTURYWGExYW93R1BFLVlBeDdLNTh6RWVJSDFYMGJzd1lzZ0JDVTd2b215TEEyYXRkY2E2WUdEYWFJR3REazhqTnluS013WnpVc29tOHBaUk9qcEJVZmZRaA?oc=5",
+   "t": 1795795239
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "I’ve built hundreds of Lego sets. These are the 44 Black Friday deals actually worth shopping",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkRueUlQSk9pU3huUFY4UC13N1FHQmlQZ2RjSkRtQmVlMXdzYVNpZDJiRWNMbUhmcWM1ejVoRjBGTnZRaUhRN2wxcUNVbEhPbG1WYWQyWnFyYTNwbTRLVTRlQnBVS0RQZDVzY1V5UWhHLXMwME93OUlHWjRNLTZTNEFR?oc=5",
+   "t": 1795795140
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "These stocks soared the most during a wild week highlighted by Huang's return to Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWm15ZndINUFPSEdicUJidWRhQ3dnUXdQQWdiTlkzLWd5a3Y2ZkI5RUR6TGlMN2lJaXZaQ2Jkd1NqdVV6Y3A2WE9iMEpINEpHVG1qNUZncVpzemtDZ01iRGdrZTJQcWxCYjlNNV9oVkhoejlzQ1lBTjRrQU9yUDg3WjJJaXNrcmk4UmtqWFlRMmZCTmVsdjRzVkhFTEt2ZGpsc2xCbUhwY2xPa0htRFBqMS1DeDNOeFVYcG1Oa2Z1UDJ5c1p0Y1N6VTdiaGRkSGU5VjBLbjdWWFRCa0E?oc=5",
+   "t": 1795794720
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "盤中速報 - 美光科技(MU-US)大漲5%，報631.33美元",
+   "url": "https://news.cnyes.com/news/id/6674186",
+   "t": 1795794708
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈美股早盤〉AI買盤回流主要指數走揚 標普500拚4月以來最佳單周表現",
+   "url": "https://news.cnyes.com/news/id/6674170",
+   "t": 1795793572
+  },
+  {
+   "src": "經濟日報",
+   "cat": "us",
+   "title": "美股早盤走高　那指漲逾1.5%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwS0VwOURjM2d4UkhvS3pudUVKRnlKTi10LTBHUFlFSWhXZDFzdFhLMEhtMDJEN21XZzdUaUFud0xHQjU4N0xHdmtjU01iWVB2RG05VFFHeWRYbUcw0gFiQVVfeXFMUEtYQ3Axbk5UNlZkd0ZsVzhNVS0ydmRndXFUcW5kNzlOM0JuZi05R3d2R0ZWeXVMMDBQbDRva21va3BCTVVTSDVramc0MmxZYm9oX25mRGJqMlR4NGFVV0d4MFE?oc=5",
+   "t": 1795793419
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "EXECUTIVE CHANGES: Adam Keswick leaves Jardine board after 20 years",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0diYTh0VUU5bFZGSXE1enVhc21lNWpzaUtxeTA2YlpPb1gxcWZRQmQ4aU8yNFRxWi1Dcy1zaHNPeVdSQ0R1a3hJNUc1SXllMGpCZzZOWGNYYXZVVmV6N2puZUlCd0ZVQnNuVWRadVJnUXFlS21hTUJvSE9QV2IxVzdqRGV6ejlWTlZVT0JRbGR6c3RwNGh3U2JvU1N5YzhJZnp6dnNzZURqWG5aZVE0N08yYW1Ma3pCUUwyQWhVNDk1RjRLY1JieFF1N2YzVk84Z2JVRnlrSHFHQQ?oc=5",
+   "t": 1795792014
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+   "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+   "t": 1795791621
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Nvidia's stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRDVLTDJfU1lUQzFNb0NaUllBdGkyek14X216UDFEWng1ZlJNNDZZXzFkN28wYkFzVGhyYUdCaG04NlN6Z2F3Y01CZTJSNHc0TXE5T0xtako2OTNFMWc3aTkzQkh5ME5pVUlsT3h6OWxDdWExZjkwdi04OHZXdXVwNk1sMlpKY2VBUGxwUkZGbTJWQlR0ZWd1X1NqUXp3QlQ1d3p2R1FTV3M1TzgxYzh0RzBpQWZkdkZIalN0ZlZfNFpGOGFDMnRqM0NBdkh4ekNrWXBHMXRSTks4SDY4SThsb1JGWQ?oc=5",
+   "t": 1795791360
+  },
+  {
+   "src": "udn",
+   "cat": "us",
+   "title": "美股早盤／感恩節後強勁反彈！四大指數齊揚 輝達獨自憔悴| 全球財經| 全球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WZzZkQXRiNXNBWk9mVEZHVDVudHY0UF9Nb1AyYi1RTEJnUUlPMXlSNHU1VzdiQ3lpSk5EM0w5MGttb2tVdDl5ZnVjT1lGZmVD?oc=5",
+   "t": 1795790849
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "What was Coinbase worth while Nasdaq was closed?",
+   "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795790454
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "us",
+   "title": "美股開盤／4大指數齊揚！SanDisk飆逾6%、台積電ADR漲近3% 輝達卻翻黑了",
+   "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPd2RzZUp6NWVBcVZnVEo0eHJSMW10aXk3SWN0Vm9VVkZvSVI3eXRVVFVtdmR4UHNXdzNSamhjSlh4WE1RaWRqd2FnNGkxSlVsNkRHcVRSNnZvUENzLWJJQTRYbG41Slp5dzhyWkI0UVU1blZxLUszWkJRcXhHQk1FRlMzd09XZ0VyS1Y4eWllRGw3ZDY3Wm0yMEJaV29zYlpKbDFaczc5WWVhZnMyT3dqVlh0N2JiV1Q1MGREVnF2TWlHeVFqQzlVcUJINzk4UVdmQU9TcGFqb0lCQVJCc3ZqUkdacjk5TG51c3NNMWVVcGpJd2F3Q0c2YjNjME9pSWlsUk1ySnNNQU1meVM2U1JfZXZXQXhNVTB3QWYwWkZMMW9xUFBmYVRFSWtsSXRBNjVyZmxXN2Z4emdPY1R6cTBvd0NtWmdNanlzUXA5RXdwZXV2ZFVJa3M4d2hwT25yLVNxdVlGWGpCdGJsTXo3dlRqcjE5NUlEdjZ2clE?oc=5",
+   "t": 1795790280
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "金色Web3.0日報 | 幣安將推代幣化IPO並支持打新 何一稱待監管批准",
+   "url": "https://news.cnyes.com/news/id/6674150",
+   "t": 1795789990
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "誰在拋售黃金？俄羅斯連續10個月減持：沙烏地阿拉伯、Tether也被盯上",
+   "url": "https://news.cnyes.com/news/id/6674149",
+   "t": 1795789989
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "總部設在香港或新加坡：服務歐盟用戶時如何判斷 DAC8 義務？",
+   "url": "https://news.cnyes.com/news/id/6674148",
+   "t": 1795789989
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+   "t": 1795789461
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "TruGolf Announces Reverse Stock Split",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFduWGRjdnkxWGwwYlVfd0lyV2k5dEEwVnlMdUg5M0xBcml5UnpaMnY1cGswVndEUWQzZmNKQ0hCcW9DVDJqeHhIbDEtYTNWMFJaMVQ0RkdRb3FqejQtNlgwNlRWRUJ5dmdrc3NLRDN0c0RpWnVMWDBscmE1OHoxVm5MdGZnLW1iTjBxSVVtczNHOE1PSUNoOA?oc=5",
+   "t": 1795789020
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Oil prices are again rising – here’s why",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pWERQc1hkMjdnNVdlT2laUE80aXpVRV9GV3o5ZE9lb0lKbng3WFRTUGp0X3c2eG1hSmVkSkFSUUcwWEx3REFpUmdweERDY0ZITkR5cmFaS094dHB6SjFsLU5DbDUzM2JEVmFjX2habw?oc=5",
+   "t": 1795789008
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "在Velio可以買到Hyperliquid上沒有的AI資產",
+   "url": "https://news.cnyes.com/news/id/6674127",
+   "t": 1795788010
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+   "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+   "t": 1795787404
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "AI憂慮重創亞股日韓政府啟動救市計畫- 國際",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QLWNHa0lTOFNVeURLT1hacXJ0M01FU0xQRld5QmRlMUUtT0dTMWJmN2RNLVFqUENjZ1VwSGZXbGFHaXNENTRVQkNrWnRxVEhEcWNpVDRXdHpNdG9kSEh3?oc=5",
+   "t": 1795787220
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+   "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795787040
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "科技股重挫難阻鷹派步伐：聯準會12月升息25個基點幾乎板上釘釘",
+   "url": "https://news.cnyes.com/news/id/6674117",
+   "t": 1795786218
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "感恩節前還能抄底嗎？美股、幣圈集體「打折」",
+   "url": "https://news.cnyes.com/news/id/6674116",
+   "t": 1795786217
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "紐時：華為從被美國制裁 如今成為中國AI戰略的核心",
+   "url": "https://news.cnyes.com/news/id/6674106",
+   "t": 1795786204
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股拋售引發美元出現一種新的反彈模式",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFphc2hFSnFjZHl1X3VqcGphbUkxd1JFR3lOOHMzTmY2d0JoTnhnNmRlUGdrRTdET0NMMUYwTFhJTXpzT0M0M3B0ZEczaGdhM3F4NS1UZjJhVDdnc0xVWG9Id0l5NnJCTFd4VVJtWjBXZGQ1ZlZJMEN6RUtWREdCbDd3Q0RUckFBSV9WTHJ1TXdmLUxFTnk1V3JtejI1QQ?oc=5",
+   "t": 1795786191
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+   "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+   "t": 1795785857
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+   "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+   "t": 1795785550
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "BCSF STOCK ALERT: Bain Capital Specialty Finance Shares Decline Over 21% in 2026 - Kaskela Law Announces Shareholder Investigation",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOelFEVGV6UnZNeXNCV2lQdldUTHFqZ3VPYkh4TjMybFc2cDhFcm5renJnNFdJQ3VjTXA4Mml4QmFXVXRKZy1uR1lSdmxMTVBCZ2l3c3g3Rk5kaE1oeXNsbXk3OEN5YUdpcTk5dzRzMk5xUmxoN29lUFB3SG1lRUJTa0ptWlJoTi1EYUtSZ216ckpwWVkzTUE0R0xkd0FGd0Q5TVQtNmFBTWNuUjg1MnhtZ016X3FyY1MtM2syaFUtYkxCZ0V4TjNFOFB4bGlDQTFjU2ZrekJ3Y1lzOFVXTE56bVk1S1lGSVN2NWx2ZUM3WlctbFRfdmtKUm13UGF6Z2RLaG5JXzUwc2cxT1ZabElaNzFSOHVmUQ?oc=5",
+   "t": 1795784460
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "CCC STOCK ALERT: Kaskela Law Investigates $7.75 CCC Intelligent Solutions Buyout; Analyst Price Target of $9.00 Raises Questions About Deal Fairness",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPM2huTDNFTHBzSzdVWUxOUWFCM0hIQV9NbEdTMEJGZTF2VmJvRzRZRWxrQlZQeG9pMU5NN3ZfcUl0QmhyXzVuVi1JYnpuSjJZRHNBTkFhbGJYczhXT29rQmt5b3h6RFhVdVRXRUNna09hMVNZQmVhUFVEemFxY0RtUy0xaGZDN3VfYWVMVDJWRUxJbldKZVg1SksyWm00dTZDWXN6SEFHd29VcjR5RHNqS1F4MHd5cTE2cXR2cGM0SkViaEU0N0FnSWhLM3VTODI5dnZHNkNJNHN3ekQyRm9DcFV0amhMaTNsTXNpQTU0Qjk2aFN0NlNnYnZidUxTc1ZMOVVNRFVQWVRKa1h0Yjl6eF9kNl9qbW9lWnBYUjBjQlU2bHRhR2llTWlUNA?oc=5",
+   "t": 1795784460
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "PRTH STOCK ALERT: Kaskela Law Investigates $8.05 Priority Technology Buyout; Analyst Price Target of $13 Raises Questions About Deal Fairness",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQWHdjM082Vk53UFNUbHVDTVJ0cy1VMDkxNFQ4N1BjM2Z3eDY5T3I4U28xaDJQN3hJWEh1S3ZvWld0TjlCWVVSTHhhdmVTeTJ0M1JXdlU5Ync2MFBUOEpjV3h6b1pPdTRTUkI1RmlJWHJOOXducjUyNk5vOWNkVV9yZnFocjBMZFgyaFltaEhfcXFJdHVXWC1CY2ZwZ2F0QTN6OExjMnE0YjZ5V1hIVVNvVTh3SnhrNTk3aUd4ZTl4NndhZnNxdkFaclZzNENMeEdDbnJDX1JyRk1wU2xSS2IyLXlKLUxubW5HMTRwVG1UOThNZE9kRHZlM3dqLTJjUlZDeG5wWHUwQkdEUUxvMzdMVTFwVEZwdlVyczdHSG9yYlhWNkE?oc=5",
+   "t": 1795784460
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "AI創造者萬人大派對即將開啟",
+   "url": "https://news.cnyes.com/news/id/6674109",
+   "t": 1795784411
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
+   "url": "https://news.cnyes.com/news/id/6674099",
+   "t": 1795783457
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+   "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795783194
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "比特幣明年將再創新高？2027 年加密市場的十大趨勢",
+   "url": "https://news.cnyes.com/news/id/6674098",
+   "t": 1795782619
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "幣安創始人CZ談預測市場：未來空間會很大",
+   "url": "https://news.cnyes.com/news/id/6674097",
+   "t": 1795782618
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "AI的顛覆性應用：還藏在角落裡",
+   "url": "https://news.cnyes.com/news/id/6674096",
+   "t": 1795782618
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "RWA 進入「大基建」時代：資產上鏈之後 競爭才剛剛開始",
+   "url": "https://news.cnyes.com/news/id/6674095",
+   "t": 1795782617
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "選前疏運運能創歷年新高 高鐵尖峰訂位近全滿、交長視察疏運狀況",
+   "url": "https://news.cnyes.com/news/id/6674092",
+   "t": 1795782495
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+   "url": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795782000
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+   "t": 1795781767
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "正崴看好明年AI高速線出貨續成長 算力中心需求旺租金有調漲空間",
+   "url": "https://news.cnyes.com/news/id/6674059",
+   "t": 1795781704
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "CT Private Equity Trust hails portfolio as net asset value steady",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT3pvNWM1a1YzdzVzVHpSbnZQVXRHTXlsb1NTbmZZbTRJNnhRSkZKSjlubFhEZXlwNTh4YlJ5RjNEVFNNTDR2M3ZtZGRIdVU4NHVRM19iSDJFeW04OGRxNm04Z2tlWDVjbjVtb190aVRGRXVvcEJET3VnWUhDdzU3NFBpeGdmT3ZGNHU0M25vREw5Zng4VWZJRURJTVlpM3plZW5hSVlVa0Z1TmN3eFNBUTNYMi02bjJ4bkV3NTBSZFNSTl9wMWc1TzJ1ZXhKRmZrU1lrbmFUMmM?oc=5",
+   "t": 1795781597
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈第一金法說〉築底訊號出現？估房市將逐步止跌回穩 明年房貸穩健成長5%",
+   "url": "https://news.cnyes.com/news/id/6674058",
+   "t": 1795781485
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "馬斯克預言：Optimus機器人18個月內包辦家務 人人會想買一至兩台",
+   "url": "https://news.cnyes.com/news/id/6673835",
+   "t": 1795781411
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "GCSA洞察: 17個國家和地區24台Check Point管理服務器遭入侵",
+   "url": "https://news.cnyes.com/news/id/6674066",
+   "t": 1795780890
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "美股盤前／那斯達克100期貨漲近3%輝達、超微領軍AI股反彈",
+   "url": "https://news.cnyes.com/news/id/6674065",
+   "t": 1795780853
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "比特幣礦業生存戰：有人關停礦場 有人轉向AI",
+   "url": "https://news.cnyes.com/news/id/6674063",
+   "t": 1795780826
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "2027年反洗錢、制裁合規、出口管制重要日期全梳理",
+   "url": "https://news.cnyes.com/news/id/6674062",
+   "t": 1795780825
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "For Nike, a comeback is a marathon and not a sprint",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xdFRsLUVhRE4yTnVlMjVXUWQ1cDVudUFzWHI4eFRkSFFSZ1dqZklTNkN1dENpUkVZbnZBNUl2Z1RUUTlHOWRvUmk0dVY0Ums0TFRNTVZPdU41RGRveF9xVjg3Ynh4LVM5MjB2SEcyNEFCUUJybnJ0Rw?oc=5",
+   "t": 1795780815
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "眾達-KY自結10月EPS淨損0.46元 單月虧損3200萬元",
+   "url": "https://news.cnyes.com/news/id/6674057",
+   "t": 1795780538
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "鴻海大語言模型FoxBrain 臺灣主權AI評測奪全球第二",
+   "url": "https://news.cnyes.com/news/id/6674029",
+   "t": 1795780256
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+   "t": 1795779947
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈第一金法說〉央行年底升息？一銀估台灣按兵不動 惟Fed明年Q1前有望升息2次",
+   "url": "https://news.cnyes.com/news/id/6674022",
+   "t": 1795779893
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "不只是車廠 特斯拉獲利能力優於同業 估值指標遠甩通用與法拉利",
+   "url": "https://news.cnyes.com/news/id/6673834",
+   "t": 1795779603
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+   "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+   "t": 1795779277
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "國家隊 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EeVp2SVA5c045eVVDR3hjVTgwQldDa0taUGJSbUZQcG9BWS1RX1BUZGQ5dk5sYmEyTVVzSzRtN1pVck1sRHVRMElIUHJFbEt1em42VlFJd01aV0t6czBJ?oc=5",
+   "t": 1795779017
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
+   "url": "https://news.cnyes.com/news/id/6674033",
+   "t": 1795778794
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+   "t": 1795778562
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+   "url": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+   "t": 1795778387
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+   "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795778068
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Injective asks SEC to allow order books for tokenized stock trading",
+   "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+   "t": 1795777637
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "中國晶片股單日漲幅創紀錄！國常會點名「國家隊」穩市",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iV1BCX3VuNFdCZ2I5bEE3ZGlGQl9PMF9VWjEzREd5ZEx0R08tUDhMQWQ4WExFYkdDaHExTDZvaklIemR5eVhfT0JxekZpcEZCcDcxR2I2dUNJSHFVdFlzaDZ1NHpDTjFuNmR6WDJRQmY?oc=5",
+   "t": 1795777266
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "GCSA威脅情報: GeoServer與Juniper曝嚴重漏洞, 無需認證即可執行遠程命令",
+   "url": "https://news.cnyes.com/news/id/6674028",
+   "t": 1795777231
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈航運指數〉歐洲線運價強彈 SCFI止跌 航商力拚年約價漲",
+   "url": "https://news.cnyes.com/news/id/6673986",
+   "t": 1795777001
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "t": 1795776687
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈第一金法說〉現金股利配發保底6成！一銀喊台股修正是買點 明年SWAP上看127億",
+   "url": "https://news.cnyes.com/news/id/6673984",
+   "t": 1795776468
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Gamma Communications clears regulatory hurdles for Epiris takeover",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGN0cHpEM2g4d0NIamczWnA3UE8wU1hndlM5aDVTX0lvcjNGSS1rT0pkOTJKNGxrV2xTZUtFbFBadVI3OG1zc2poTjVXYXhSSF8xbTVFT0ppVkk0bkFVRG80VVhsdnVVa1cwRHdyRlFpVGlQTmxTSTl0b1hIZ0xlOG9Ga0NVellNTDE4SVIycDZKSzFjbnNtS3NmRkVwWkQ4N2FocExpUWxjaUljSlozX1JtTHgweHNTVmNGODJoM1owZXRMSGlNZTB0T0VNTTM0enEtMm9CcGdhZw?oc=5",
+   "t": 1795776428
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+   "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+   "t": 1795776302
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "中鋼10月營業利益月增28%、稅前盈餘6.11億元 多國鋼廠盤價穩中有升",
+   "url": "https://news.cnyes.com/news/id/6673898",
+   "t": 1795776280
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "特斯拉人形機器人布局有新動作？擬收購德國工具機廠EMAG資產",
+   "url": "https://news.cnyes.com/news/id/6673983",
+   "t": 1795775418
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "AI、美債與比特幣：一場流動性爭奪戰",
+   "url": "https://news.cnyes.com/news/id/6673982",
+   "t": 1795775411
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "從 Visa 實驗到 KYA 治理：誰來界定 Agent 的金融邊界？",
+   "url": "https://news.cnyes.com/news/id/6673981",
+   "t": 1795775410
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "台灣穩定幣監管細則披露：銀行主導、全額儲備與雙重審批機制",
+   "url": "https://news.cnyes.com/news/id/6673980",
+   "t": 1795775409
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "輝達AI帝國非單打獨鬥！美股新ETF瞄準非美半導體供應鏈",
+   "url": "https://news.cnyes.com/news/id/6673832",
+   "t": 1795775403
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "免驚美國反AI聲浪？主計上修今明年台灣GDP 創80年代來新高峰",
+   "url": "https://news.cnyes.com/news/id/6673977",
+   "t": 1795775312
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈台幣〉股匯齊揚！台股守穩3萬9大關 台幣連2升收32.935元",
+   "url": "https://news.cnyes.com/news/id/6673973",
+   "t": 1795775283
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+   "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795775166
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "Google TPU v10 傳導入 512GB HBM5！聯發科或成潛在合作夥伴",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01M3BxUVZpbzJlX0UxN09xOXUwN3JNUF92OFloMmtpNG1ZaWRNNGVyWkFxMlRjS0t3RjVYZF85R2x2aENxYzNraVV6YUd5UWFVX2tWcWJMS21wMWs?oc=5",
+   "t": 1795775151
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "星宇航空現增價每股15.5元募資46.5億元- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TaHdVbjdybG1TRTNqU3dUX1FWM1hYclNOcE5paXBvV0gwYTRHOXRnQTVOWlp2eDlZSEdUd3lTaHNWYVZVZ2lWVnpfZWp6bjJYanBDY094ZFVOZk9HY2JJ?oc=5",
+   "t": 1795774740
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+   "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+   "t": 1795774551
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈台新新光法說〉林維俊：2銀行拚元旦平穩整併 重申股利三原則暫不計入壽險上繳",
+   "url": "https://news.cnyes.com/news/id/6673942",
+   "t": 1795774501
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "無懼景氣逆風加薪 台塑集團50年僅2年未調薪、滿5年送金",
+   "url": "https://news.cnyes.com/news/id/6673951",
+   "t": 1795774209
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "I let Siri listen to my conversations for weeks. Here’s what it got right — and very wrong",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRDUzQnpGNklGYkVEZWNDMmFzQ1VnTTQtUVJVSHhsMWxiUjMybTkwZHQxQmNad094X252MEZtVXpobEE0b243M3Z5LThtU0hsRWQ1eWVKYVlkaG9VM3dEdld0aTBTWjltWGc?oc=5",
+   "t": 1795773616
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "As Trump remakes Washington, his Cabinet increasingly moves to secure military bases",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwN0RaU3EyWjJIc0x2aDFIR0dVcVBWV3h5MHFKNktPeUVnd045bWV6MC1CUG4wbzBncnpUc0E3ZzNRUGE3NnZ2RTRQV3VJZGZiT2xYekk1TDdYVDA5VV8yS0VOQUxCalcwR1FMa2J5MTJlTUxNdVln?oc=5",
+   "t": 1795773616
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "美股跌到位了嗎？Tom Lee在看什麼信號？",
+   "url": "https://news.cnyes.com/news/id/6673950",
+   "t": 1795773615
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "讓收藏家的真實藏品成為更多創意的起點，Top.Market為全球收藏品社區構建開放網絡",
+   "url": "https://news.cnyes.com/news/id/6673949",
+   "t": 1795773614
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "HTX DAO大使Molly：成熟的投資者是怎樣練出來的",
+   "url": "https://news.cnyes.com/news/id/6673948",
+   "t": 1795773610
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "革命及其背叛：人民為何懷念 SBF",
+   "url": "https://news.cnyes.com/news/id/6673946",
+   "t": 1795773609
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "外資賣超296億元連十賣 選前倒貨00406A 15萬張 台指期空單再增至10萬7503口",
+   "url": "https://news.cnyes.com/news/id/6673941",
+   "t": 1795773603
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+   "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+   "t": 1795773600
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Imperial Brands: What a Potential Altria Takeover Means for the Stock",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY21lOG9kWjc2Y3MyZFNkWHRMOHFUcGVzX2pIS1dRRnNqUmRaVkVEeUZGbG81SkJKVlI1VVFrbW5ibm5FTy12ZHdqbVdrdDEteURkSmhhVHpFY0g0VWFkYWJfNGw2Y1pPZmR0VnBNelhMX3RlUS1RU2JFaHhucVlESW56N04zVkNUcm0yelZlZ0Q1eFBYa2RFNEcxR1ZFeTE5UE9qYQ?oc=5",
+   "t": 1795773191
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+   "t": 1795772995
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈國泰金法說〉明年股利5元起跳？李長庚笑回「期望更高」 財務長曝配發率參考區間",
+   "url": "https://news.cnyes.com/news/id/6673843",
+   "t": 1795772949
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "光群雷營運轉盈前三季EPS1.05元 還要再買5000張庫藏股護盤",
+   "url": "https://news.cnyes.com/news/id/6673900",
+   "t": 1795772845
+  },
+  {
+   "src": "永豐金證券",
+   "cat": "tw",
+   "title": "【1127台股盤後】美股感恩節休市，台股震盪收漲 156 點！外資連續 10 日賣超，投本比鎖定【中砂】、【金像電】、【中華電】",
+   "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNa0dXRkVITUhWOVRvMmRZMGEzdExTUzBXYldKeWFwN2pmQnZwSUNxUzQ5OGNwNzcwcTlCOU9ucFQzNkdfM0w5TU5qTjludFVscG9IVDNGa3hIWVFLVW54UDVGelI2OXV5eFJIZUhPRzVkeFNmdmxhZ1phRFNnWFZVaWM1TmpiWENhWFpITTZwT2EwRXVaYjRMWWZXVE9NRDRSdnlNaHlGYU9TM1UtbVlCOXktQUxOOGxCdGhHdDBLdXhDeU9xR0hWYUVEdVQxdHY0Ny1ycXBLQnVISW4yOFdndC1RTy16UktCamE2RWJqWmpUYWYwWjl4dWwzWHNSZFVRc3BzZFlJZC0tZHVqMHNBd3prcm1TOGdNS0kyVlctRGx1T0hBTXo4a2xJTG5hWEw3UmZocTIxdkNJckhrLTBJYzJzOXZZSDROdVdLbmtFVUVleE9UdXJHQlJjclltQzUyRk5fVVd0cVdZdTUzc1hZR0tQYTZKMkpaaWtBRE9pMGM1c1Z4cldzLXJnRE8zM1JURUxOY1c0cVdsWm0ydmhTS0p6SG1tRldmcmFPd1VxWG15cHhQbVZrM3Vod3dmTG41MnVGWUU5Vi1BNVZnbm9JZndqbnF3VWtlNlphTjY0a01vZGxiV01OellGVWFiU1kwb1IxV2xKNldZOERPTkdQTlZvOG5jMTNWMUxpWDJfVEFZbTNQT20tX2NGeEhVRklTQkxyMl9zQXFUdExzbFRYeVVWa256STVRLWJxX1Y5S09QaXhmRjB0T1ZqZE1fY0pNOFVPdUd4ai01TVFFSndhNmZZMm1tVU1FZGFvYw?oc=5",
+   "t": 1795772542
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Admiral: Money Business Builds on the Group’s Core Strengths",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWZieDJhVjlzaHVlNmszQTdMVUFObU9Kcmt1RlFWcVJ0WHY3VWd3ZE81TXdmY05LWnF5NGpaal9mX01TZlA1WW9SZzAxcUlwcWFVZENvTDBzSlpHdFY3S253OUlsQjZOWm9QZE40dW5wRkdyd3NtMUNwNjNVbU55ZkZZX3RUckpmdDF5WXVfdThwTjA3LVd0cU51SQ?oc=5",
+   "t": 1795772283
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《金融股》第一金前三季獲利登峰 股利配發率目標逾60%",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82cWFQcDFQb3hGYkhpQ2RLcXl5Qkxfb2RUQUZ4XzN5ODNUYTRrZ1ZsaHk3UEdZenh0enVxeC10YW9mS1YwYzZBTUNPV0sxeHpUVnlZZXNzZTJjOENOVEFF?oc=5",
+   "t": 1795772040
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "Jeff Park：這是我經歷過最艱難的比特幣周期",
+   "url": "https://news.cnyes.com/news/id/6673896",
+   "t": 1795771807
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "crypto",
+   "title": "以太坊基金會賣幣：不影響以太坊的基本面",
+   "url": "https://news.cnyes.com/news/id/6673895",
+   "t": 1795771807
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "特斯拉人形機器人布局有新動作？擬收購德國工具機廠EMAG",
+   "url": "https://news.cnyes.com/news/id/6673892",
+   "t": 1795771803
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "〈國泰金法說〉看到「00981A違約交割上億」嚇一跳 李長庚急查：國泰證實虧僅1157元",
+   "url": "https://news.cnyes.com/news/id/6673726",
+   "t": 1795771523
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "股匯同步回神新台幣本周微幅收紅、終止連三黑- 金融",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yNWJvbzYyNFpiSC02Z05QWTRDWjBiY09CN0ltTlRudGlYOHExdGVzRE5mcjFia1NfTGR4eXZxN2ZwdFl0X29oSWcyWGlYUEw4Q1JIRFNqNTBBSGx6bV9n?oc=5",
+   "t": 1795770900
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《國際金融》科技股領歐股開高美指期大漲助攻- 國際",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZjZ3YWZ2RGtQUjQwMG5ubS1faGR5dmlPWnhoTjZ2WlFJZ2F1c0ZvRmhIbzgzT2RuanNydTV4cjdOajZ1LWtGUFU4bHdGYzJKcDBKVWdCdWNXVndzVFVJ?oc=5",
+   "t": 1795770600
+  },
+  {
+   "src": "Yahoo股市",
+   "cat": "tw",
+   "title": "三大法人再賣200億元！台股強拉尾盤站穩3萬9 股民怨：放假加班也要賣",
+   "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNTVZxaGt6VEllQWhHMVlOSHlid2paVU0zaWMyczJTLU12R1FMY1A0TVFfaXRkUGRDSklWWDFOVlV1NENNNnZxbUVzclFiM0RJcHNQSGo4QnJlaEpUNGdiQXlUM3RZV0o4V2tMeFphTE1qUmR1bGIyVnVwX25za2lOekdqY2ZYWHNBb2FsNW12dlhsZEVocFZjSmJFRjJWQ09CQWgtNjJGOEVYN3o3cXNqMy1mSkJYd3VoY0tlaDk3N3JUOTlHUW11eEIxNU1YTS1UZmZ5YTJjdHUtNDBrMXNGSk1pbDB1T2t6QzM4UkxYbzdyeGdtU25xby1Oc2dObHh2SmZYS1lkUWdFb3hrdXhpWG9KTHdJUjhzZEg4dzVzTldnUllKYkV1UENTMjFwanBLQnJNMjVCbFFrVW9fTnFyWWxxS0JmRFlDTHFVSFpTcXRlN2FkX2hhZHhHZS15eDFoQnpqQngxdlJOdmpfWmlFWHc0LVpPakxaR1h1ZzlUUlNpczFnM3J2Q1EwRWhwUUstOU1KUFlVTFVnYzZybjdWZUtmN0EzZlNqSlE?oc=5",
+   "t": 1795770480
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "tw",
+   "title": "研調：需求能見度低、供應鏈轉趨保守 2028年DRAM合約價走跌風險升溫",
+   "url": "https://news.cnyes.com/news/id/6673880",
+   "t": 1795770401
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股盤前追蹤 | 閃迪現升10.05%",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSjhqdXVQOGstNVFWcnR0d08xMzdRMVlSWGV5a3JILXJWOHlwNkhEcGdjT0ZsSVVIWHBFY05TUk9CNjdwME1QOHFHNkJZcXZ0VXBJWA?oc=5",
+   "t": 1795770300
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "台積電擬在美布局第二座先進晶圓廠！美銀重申買進、目標價3260、隱含漲幅逾5成",
+   "url": "https://news.cnyes.com/news/id/6673758",
+   "t": 1795770003
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《金融股》國泰金保留盈餘影響數1,741億元創高 國壽近2月減持台股- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwak5wVlRacDJTVEZkVE5STlVhNEZlVWFXdFFMSHdSY1N0RWVvX190TjZ1bWZHLVR2YkdSd1FyU2JwOXF5ZlJxZVFZQ04tdkw2RmtzRXNOZU1kdEpfYmc0?oc=5",
+   "t": 1795769760
+  },
+  {
+   "src": "永豐金證券",
+   "cat": "us",
+   "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月",
+   "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5",
+   "t": 1795767121
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+   "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795766679
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《韓股》政府穩市 科技股帶動韓股強彈4.34%",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyblF4VlI1M0diR3dxSUZpQTdaY3pKRW9RX2s4eFc0T25qel9YUDlmcVBKaGl6OHFVVkgzaTBEMzM1VlZHcmxrM3JyTjhSY19ndl84ZjVWU25XRVJ1VTNz?oc=5",
+   "t": 1795766340
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《金融》凱基證券APP再升級「美股選股」全新上線- 金融",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvejctbjBrOHhaTUZVTWdyZEcyLS15THlvR1ZmZHkxTWEtMHpYT1JhQjBkWUJ5Y0tRMUxtZVRJYWwweWJTeU1WaFNwdEhENWF0WHAwZll3ZFVrbGNMMFg4?oc=5",
+   "t": 1795766280
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+   "t": 1795765874
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "SAP 證實 GitHub 開發平台現可疑活動，未見客戶資料遭存取",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUnYyODRGd1RCeXJLNW5EVUpXY1VjOHc4Z19zcUlEVllMLU5XXzR0bEt2U1h5UWxielBEbk1xeFNzTjFrVkJKSUxaNVEwMXR1Vm8ySEU5dE8td3c?oc=5",
+   "t": 1795765690
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+   "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+   "t": 1795764781
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "《日股》AI股逢低買進 日經收漲2.11%",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16emtfTUJSYU5LN3lhQ1ppZkhFSmZLbzRPNXlKNjB2bjJiX2gyeUxOdEtGcXdRaGY0TV8zMEp0RjZXZU9LMzl1S2FXcXZUeDh5Rno3X3hGUnlMUm12aVl3?oc=5",
+   "t": 1795764660
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "His fintech manages $1 billion. What’s the next wave to catch? | CNN Business",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmFjZnFMS01IUHNzdjhMRnk3bjFGM3F5a1YtVmtZU1gtckxUN1JkZUtIQXUwLUs1MWw2RWlZeW9kNU82cmZISV81bE81bk54SFdDRnRtek9DeHhENU1ObEh2d1N4cDktSWN1SFhRXzY0VVBoU0RXYTdZaVJBVXpyYUFDc2hUdEFBZ0MteEVQbFhRYW5VbDFtYllEbHhxUmFqUFNLT292bW5FQQ?oc=5",
+   "t": 1795764369
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "不是賣鏟人是地基！ASML執行長：AI資料中心取決於我司擴產速度　用「代差槓桿」綁住陸半導體",
+   "url": "https://news.cnyes.com/news/id/6673452",
+   "t": 1795764008
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+   "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795763984
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Spain to vote for a new Prime Minister in Sunday snap election",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3lKbk12QkZGenByYnI1Q0R0ZEJfNFl5WWZSNzRBbXMtNF9HVDh6d1RiZ1A5cV81N3JTQjQ0ejF0ak9zYmM5VzBUOHR3aHhONVdmODdlNmtlVGhzMGVlbF9iVnZfTy1Td0NpUkNESGpDRXZiNGZTd1ROcll0ZkdPcTBjMDAxUHhlU3NXYmtsNjVXTXZqRXRrd0hiRWhfY1V0SkwtQkpuMC1aUFlGZVc3My1uM0p2WFhMNnc?oc=5",
+   "t": 1795763316
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Alliance News UK - start of day",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkdiZkpXR0dUV1hmQ3owT0NIaC1pYW11RTJ2WTNNTVZveGJ1VEVXalNYVGpFamFYeWh2NnFDTDdzVDZsVjdXRFQzby1KLUwxLWcxMkxFZ1RFLXN0MlA0Njh6UVplNjVkX0J0UUI2cHpodWRtSWF4Y0xSU3dHSGtnTnNRMmFpODk3YmQ5VWJUQXJUaUFqQ3pRcTc2N005UU1rcEhmb05vLVY?oc=5",
+   "t": 1795762828
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "從矽谷到深圳：美國新創企業為效率移轉開發重心 但也面臨風險",
+   "url": "https://news.cnyes.com/news/id/6673658",
+   "t": 1795761606
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "全球黃金「大搬風」！法國率先結束近一世紀託管 全球3.6萬噸儲備版圖重劃",
+   "url": "https://news.cnyes.com/news/id/6673670",
+   "t": 1795759803
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "New Mexico authorities search for pregnant woman who escaped during prison transport",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzBTZldOV3N4MXV3MGF3NzMxejJzUHZCZDNRWHhPR1NZNmdid3Q0RGM4bUhIY0hqT2VXY1FXTmRza0E0c04yQ2VjRmpsdFNiOTB2TGc5MGhQX2NfMmNxZml0OFJRUy1pQUFrVEx4RXdhLWE4VkJXLVhlVlFVdFZqSkU3c0w?oc=5",
+   "t": 1795758273
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "6870 騰雲- 飆股幕後》特定買盤進場拉抬騰雲10月來大漲5成 - 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZek1BQ2pkNEJJaWNqUE9BXzVWQzk2N1hGTzRleFZfNlYwcFRJZXJBNXdadHdpRjNkXzFXeUxFTVZjUnVkQlRmU0UycFJZVm1hT0tIYXZaYUM?oc=5",
+   "t": 1795758234
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "Neuralink腦機介面獲FDA放行關鍵性臨床試驗 衝刺漸凍症患者上市前驗證",
+   "url": "https://news.cnyes.com/news/id/6673655",
+   "t": 1795758004
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+   "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795756956
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+   "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+   "t": 1795755992
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "American farmers are paying the price for US aid cuts halfway across the world",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk?oc=5",
+   "t": 1795755675
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "CBS News 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aQlVBNVNndUJQVzJfR0lQOGtaM205SXZXbXRVal9sS3kyblBvU0dpelZoOGk1NWZyS2JvZVluQkFqZmNuc1E?oc=5",
+   "t": 1795755077
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "再拋天文數字願景！馬斯克：SpaceX成功將值全球GDP的100萬倍",
+   "url": "https://news.cnyes.com/news/id/6673557",
+   "t": 1795755004
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+   "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795754856
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+   "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+   "t": 1795754747
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+   "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+   "t": 1795753787
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "MONTRA將上線BingX永續合約交易",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGJMOGFFN0k3eWxTWnBwNzhuUlA1N2M5QkFiNFpiSVBMYlZsajk4b1hudFRkZTlsd1hnSGlMSzRId29TUXZDNTA0ZVM3cXloNVVCMVlkalBCcU5RY3U2VmtxVFZFdnVhZkRNLXFoWEY3OGxtNmR4OWl4ancxeVVlTjVuOGs2UTkwa3VmVzd6M2hRMU04NVptdzJoTVN5NEdyMVNBYUNaVk51X1BOQ3VWamFreWd0RjJoakpwX0p0TmlyQQ?oc=5",
+   "t": 1795753584
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+   "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+   "t": 1795753120
+  },
+  {
+   "src": "CMoney",
+   "cat": "tw",
+   "title": "NVDA 輝達- AI 股風暴！Jensen Huang 強勢回歸難救晶片，多宗超級併購掀華爾街新算盤- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBESTdKNTM3Q0ZfUGhVdUh5NTVHaG5COU55VjYtQ29mT2NuclRqQWxXaFdtSDVnWXlJV1FVUHFHUDV3U1lkb25hNlpBcFEyUUo4dDVlTEpWcFA?oc=5",
+   "t": 1795752032
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "砍單潮+消費端降規格！NAND需求遭雙殺 2027年首季合約價轉跌0-5% 現貨已跌逾兩成",
+   "url": "https://news.cnyes.com/news/id/6673556",
+   "t": 1795752003
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美銀Hartnett談2027年美股：全面泡沫8888，軟着陸7777，硬着陸6666",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGh4OHRvT3FTRkFEdV9NVFR5d3hXOFBFOF9mOEdpcGVuX2c0bzBacTdEVmNJcGZVeHBvbVR3akN3eVJKVnM4bW93R3BJQkZDM1lZRmxyVWhzRFBuZnc2ZkdOMGdlcUNGWlMxcjI5aGg0U0FjZVlBZ2xIZTZ0QkpOb0F6U1FrTlF0R2dnclFjQkdfTEpFLV84?oc=5",
+   "t": 1795751599
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "AI股不妙？華爾街先知：AI交易還活著但「瘸了」 年底難V轉、仍有2大變數- 國際",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZMmN4czg5WXVlRzJ6Uy1HbmhBTERPNGVzd1QyRkVGZmhUTmp6VGd3X1ZWZDUyUURnSkhLaFpwODFodllWTDFhdDhyTEcyYkRtSUIzTnFNU050OTFzLXBV?oc=5",
+   "t": 1795749720
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Widespread power outages upend Thanksgiving preparations",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlc5V19Pb1JIX2x1STg0ajN2OUtSejAxN0xpaXRyUjYyQlFydXJzTUt1ME13NkVsN19VMjNiNEdDdnFQTTBMV09mc0xieEw3eW5uVE5VSkR3YTdpZllTY3NwbkpXRk9mZTREM28yOTFBUWVtcDVZMUtXZnBJMzh3TDFBQ2ctdnh0c2xOa0VVNE5OcjRSZlBpZm8tOHlNQWg0cXN0V0VveFJ2Ulk?oc=5",
+   "t": 1795749360
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股新主流出爐！SpaceX百萬顆衛星引爆行情低軌衛星族群再掀漲停潮- 證券",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OUzc3ZzRTcTA0bkVvbUZYYUx0d0VjTU1ZWm0zRExQb0FwcEw0ZmgxYVZQSjNOV3FzYmVNRDRvN0FEVGFHNHVGUktuZl9Yd2UtSGMtZzNHRGUxbWlQNnZv?oc=5",
+   "t": 1795749240
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序",
+   "url": "https://news.cnyes.com/news/id/6673485",
+   "t": 1795749004
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股AI風向變了：軟件>硬件？",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUllVcDUxdUxNcUdBeTNEcTloUTlkQXU0MEJqYmdtbjZBbUZsWl96azRJMGE0UGFjeno1NDQ3YkxmbVFOeWlJc1VZblhjNzN2LVZrdFl0NGs1Y0FiLXRuMG9RRzhRVmtFaDlIZzNPa3BFNkVETm1LSnF6Qlp6cXpxZ1IyMklwbnh2NWFzbjBwdjNVaFlFeFJGV1ByU3g?oc=5",
+   "t": 1795747740
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "關稅恐跳至25%！美點名韓光州-全羅半導體聚落　三星、海力士擴產踩雷",
+   "url": "https://news.cnyes.com/news/id/6673555",
+   "t": 1795747534
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "Prime 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yN1QtZmlRT3NzRlVRWUxpWkxXV1JnWGZBR3NhWHN2ZEk4WUFWYzcxRzNPaE10UUV4Y1BDYkJ5eFNudw?oc=5",
+   "t": 1795746529
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+   "t": 1795746000
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+   "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795744058
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "3.4%→4.3%！川普怒轟GDP數據「蓄意誤導」：為何期中大選前不早說？必須徹查",
+   "url": "https://news.cnyes.com/news/id/6673473",
+   "t": 1795742813
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "渣打收購中的加密託管 Zodia 遭入侵，客戶聯絡資料外洩、無資金損失",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sMEpWdzhZZklDSHlYdTNhTFc3TGJVNWxxdFpKc01reHJRQjJqRjVRa01LYkI0VnNaQ0g0R3psdzFXMndiVDlFSC01ZF8tYXhaaW9Jczg3SHBDcXlqaHNhNA?oc=5",
+   "t": 1795742414
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "美管制從晶片伸向「雲端後門」！ 輝達暫停向新加坡、馬來西亞、泰國與印尼供應AI伺服器",
+   "url": "https://news.cnyes.com/news/id/6673445",
+   "t": 1795741167
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Dow Jones Top Markets Headlines at 7 PM ET: U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break | Stocks' ...",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa252Y3pYNUwtNWdyajNldFZKd1l2aFQyeERNc2NLYzJWQURqOHM5c3E5NEhnMHdsak1iY0ZoLWcwby1aekRDSFo1dEZ2M19xRTlsbmRrZGlEQ2I0YTE2OU5fQS0xVmh1WVMtTkxHREZuOWdaRUs0TmJBTW5CTnl0bEViWGZEUnY2bmcwSVdMc3c5Q1lNLXFyVDktbzd2Qkh3b3ZienM3WTdwMDZzLTlHOGRxU1Qyd1QxcmVISnVqNWdYNzRHd21WSTFIeG1qcnItSHNkXzVRWHFHS0pZWm01R3RFMEhSQUkzTHZHMnFDSkN0Ym1jRGlCcWR2QVdUa05GenI4?oc=5",
+   "t": 1795740052
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+   "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795739739
+  },
+  {
+   "src": "鉅亨網",
+   "cat": "us",
+   "title": "川普再談推動黃仁勳復職：他沒有問題　我為全世界做了一件大好事",
+   "url": "https://news.cnyes.com/news/id/6673444",
+   "t": 1795739422
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "澳洲SPF 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkbTUyZXZiVmNuWVU1dFpoc2tyMDBrbUF0QnZ3TXF0R1FDXzFLUVlQS1FsYlNwS3FzVXBFSDZGVkNhaXg3SzNpUzRBbW5MWGQ0bjF6aVpRWQ?oc=5",
+   "t": 1795739422
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+   "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795732786
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+   "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+   "t": 1795730462
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+   "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795729363
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+   "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795728827
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+   "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795727633
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+   "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+   "t": 1795726863
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "資訊安全 | 第 52 頁，總計 56 頁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWldRa2RWSEZRRS0xbW1OSGYwenVCdUVXeDZNbXRnOTBwM0V2SFg3andHMlJObC0wNXYtUlRPV1lBLUZEOWZjR2lyUTZ6TzVLLUU1MkZRUQ?oc=5",
+   "t": 1795723575
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795723518
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+   "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+   "t": 1795719662
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "輝達 彙整 | 第 25 頁，總計 25 頁",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtWmpBYTAyUWhFaEJCS0lpSXZqUVFma2NoNXd3VkJaQUhaUFFKR1VLMUpkNnFLcWhDOWs4VlBQZWYtUmgxbVVBamU0bTg1OXBTX2xvRUUwYjBsNnBoaVE?oc=5",
+   "t": 1795719614
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "台股最壞已過？法人喊年底拚46K、2027年高點上看57K",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ3JPcUdYRkVNVXpINjVfeVp3TlV3bUZlYWFJN215WG1hbEhNQXhvVWJhR3FXNXZPSTRPRXZLOHZfSjlGSmYzd3BrSXRFMXVMYnVVYmsxcHhyRFoweEdB?oc=5",
+   "t": 1795719600
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+   "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795717591
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+   "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+   "t": 1795716929
+  },
+  {
+   "src": "Cointelegraph",
+   "cat": "crypto",
+   "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+   "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795714793
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+   "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+   "t": 1795714320
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+   "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+   "t": 1795714200
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "LONDON MARKET CLOSE: Imperial Brands lights up FTSE as stocks rally",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRjR4cnBnMEhOSlFjWVFaSjIwYk5EbG9GSEpHX2JuSThjXy1PM1haY0NlM2w1SGYxbmhQNHlybHlXSmVjQmt0TklpMkZocHM0RW42X2lHUVlDUUtfYzlReGpBNmtxdzhvaU1tMnpaQlB3dDdjLTJ6M3VKOTg0dHJJenBwZ1llSDVobk1IVkJyRzU2enljbHA4NE9FaE9WY0tBRDg1eDFhSlhZdUVSMHpmMDd5LURXLWQ4bWFBdVBaM3pmZF9nd0dmUVZqOUMxZw?oc=5",
+   "t": 1795712399
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+   "t": 1795711823
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "European Central Bank set to appoint its first Spanish leader",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEhvYW5VTXlpTERxZ3JEeGFSQ0MxY0Y1aXBVLUR6ZDFWNWdlZ3ljTVUxcW42cTUxbE9kMGdnN2c2WTJ1MlgxcVBtaUYzNmk2RXFscDZ2XzFlLTE1cHNtRDN3QkRYc2QwcEF1UGhsTHBxbnBYNC1hWU5LaG9ETXdZM3VUQWptclVCd1h5NjNB?oc=5",
+   "t": 1795711475
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+   "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+   "t": 1795711382
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "J.Crew sweaters, Columbia coats and moreclothing is on sale for Black Friday now",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0V0TkRocnZQWTFlcjFDZU5wRFFIVUNmV1lVZm9xV3VSTTNVU0ZqQkRyc3Y5THh3WkprcHFFQWNNV3ZrWHIxNjg5T1U1WDVMRktxS3pmbkgyRGUzcGVVRVVCRG9qUXpGRjUwdmRUOTZ5YUxxZ3c2aGlYNjRsWFMteUkwc3ltam8?oc=5",
+   "t": 1795711020
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+   "t": 1795709904
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+   "t": 1795707763
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "美國為何遲未將長鑫存儲列入實體清單？CXMT仍能採購 ASML DUV",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Znc1V2ZSVXFyWkF5TEhJcThEUU55T2NvSjF6U2NFMi1yZkoxMEZ6YlAtczNDRGYzSWhYY2YzcWtJbEZOOC1PaHQ0MVFJN0NBT1puaTRUdw?oc=5",
+   "t": 1795707341
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+   "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+   "t": 1795705874
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "The 37 best Black Friday luggage and travel deals of 2026 starting at $10",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTk9rckhvWWFkTnRKLXdlNDFsZG5IbEV4ZjBtOENBcllvWEx2S3J1LW5QMkY0ajVoTWZoM2sxXzk5c1kzT0JNRHJFdXVqdVJ5NEpGbzhEMHhIeEYxTHR5NlBOQVRVakc3NUE1UVg3ZnNIWXRjS3V6MkFReWJBMXZHUVlrakcwZl9mVm41NnVNSQ?oc=5",
+   "t": 1795704780
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+   "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+   "t": 1795703935
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+   "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+   "t": 1795703182
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+   "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+   "t": 1795701958
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "海外大拋售到哪個階段了？美股尚未「全面投降」，金銅慘跌更像「流動性收緊」",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLU9LejBOU3M3c3lfNnc0Y0JvV2wwZjVucVpTUUV6LWxFYk05UWR0UU9pQVJuQXd6d0NTeTAyV01tbUYtZGdHeU95WU9mRWtVcDlSSWVWX2NxcnUxblM0b2k0N0JGc3YyTWJBbzNSRnVUWFFucUs1X1lFWG9IQ1BldVRUME1sY1JPUXNzTlNNZVVmbmxjekE?oc=5",
+   "t": 1795701370
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
+   "t": 1795699367
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "Anthropic 彙整 | 第 25 頁，總計 26 頁",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EM0hfTm9qYmpyOWNGakZxVFZTTHFpMmE1Mk0wWVBoYUdLTHJuOTVCZDBkX0IwSWlyQ3FNd3p4YjdudXBJSVQ2cEJQeVJRb0I5WUE?oc=5",
+   "t": 1795699289
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+   "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+   "t": 1795698799
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break — Update",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFhSc093aFZ2OFJnWTBhblNwNlZtaWpfYk5OM0VydjdvR2Z4andoc0NHN3M1U1phd01DS0Rud2FnQW0tV3FOQXlwSVVBTG9iUVJzXy1GaVNzTmwxbUItRzZnQ195M2NtSlZmRXM0TVRYaXdPdmxMd3FFNXd3dlhGdkE1b0E3QmhRSktwWVNTYjBhTWZGVDVXdXVHbEdvVFh0Vkpza3Z4Qk5Zb29FcWZQclNmd2tXMC0tRHNEeTFxcjEzQ2M5YU5WRkF3?oc=5",
+   "t": 1795698660
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+   "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+   "t": 1795696731
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
+   "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+   "t": 1795695968
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5",
+   "t": 1795695655
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+   "t": 1795695286
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Were the oldest cave paintings made by spitting?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd05fR2RzNURNemtCSGc2R0hIWG1ldktiMTQyS2RGeG9waXdaXzlMSXlUQm1ONC1aY3RManVjaW4xOFZIOG5FT21xQ0dBVlI5VGVNcnFpdE0xQ2wyaVRZYVhwN1ZsY2ZndTdpZlEtWFdrSEpmNXJFUjNlR1A3eXgwSWpnX1hzR0FySk0yX0ZkTzM3YkFJWkdDXw?oc=5",
+   "t": 1795693920
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+   "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+   "t": 1795693823
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "OpenAI 承認 GPT-6.2 計費算錯，Astra 額度用完快 40%",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZWtmZmZBYzdZQzFabDJTUWw3RjVHWTdkZEFuR0J3REFUUEFiNE5FT1hOdFh5VkxoaVhkaVJ0aDBtVW9tWXRSMzR4Rnh0SnR2bGxZRVpkd2FqTksybkxiOU14emRyVFMwcEVveGItSQ?oc=5",
+   "t": 1795693822
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "加密龐氏騙局 NovaTech 創辦人潛逃，紐約法院判賠 13.7 億美元",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JUWpFOUlIT1lKMDdpS0xyd2tKRndOZEloUUxiS21wQ01CLXVwdDUydEZqSTN6aGRSaXktcUhoNnJXQWMxN2xqQUZIREZYS1FiaUFsVk1iMmZaTUk5UU5BSlpteFFPYW9UNUw3QTRIUmhCLTVVd2c?oc=5",
+   "t": 1795693787
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+   "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+   "t": 1795692470
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+   "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+   "t": 1795692358
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+   "t": 1795691842
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股太空股行情分化！高管增持助力AST SpaceMobile領漲SpaceX獲批部署百萬衛星後仍微跌",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkplRmlYMC1rSGExVk55NDZHWWtDOHp0WE84NHNyeUpRQkV4a0tnVUs4VVZ4dHlOazItdXJFTTRrWVFvaGpJSG5rLW9GQVdCQVF4OGJ6dTBBQXNJZ2NNcXQtTVJFRWtfa1VKeGZ4NWlGa0l2LXVzeF8wWlpuVGZrcWY4b2ZmcG1hVnBEek5IVW50QkF1MHY0Z3hzV0hVbFJQZFl1eW9WLWlNU1Q3OVE?oc=5",
+   "t": 1795691280
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "At the gym with the CEO who made us wait 13 years for GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncVlCY1gweDdIUkFLM3luWThNdGtIbHFlMDRPWTc3X2lpQ2hVbncxTzRheVVxY2RPX1k2aFpNS2Mxdkx0RjRuYUlWeUFQUFY2Wi1Hcjk2WTRmWThlbW5pRm9ZeXpTbzNLVE5Pc01Za19iMGREc0R5Y1hNckY3R2M?oc=5",
+   "t": 1795690816
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "交易所快訊",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPay1mOGRYdGFqa2duMUgwaFJ5eVd0MVdxMkNHc2tsSUlPY21DdDZDQ1plbzdJSTZKRXRzUVZoeVEtTHNTamJ3RXItSzBWN0lqOHRiUkxjSWsyZ2ZSa2dpMlA5djNydVpNbEJnNGFFaHFkYWgyOE9DbkU5SFQybXFEYlR2MA?oc=5",
+   "t": 1795690788
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+   "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+   "t": 1795690568
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+   "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+   "t": 1795689633
+  },
+  {
+   "src": "CNN",
+   "cat": "us",
+   "title": "Artists are quitting Instagram and Facebook over fears AI will steal their work",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXNFeVY3UFR6eFlYQ0xBc21CSGs3S25xN21IYUxSbzZrdF9rMGV2WXRGMG9GeUIzSmUwTFp0VVl3bmxEa01lZXM3TXdSM0lEdnhKd0RRM0VzS0FmZk1ZWWtzaTBNQndRdkxyaDUxVlZ0Q1pqMk9NVVVLekkycTNGUg?oc=5",
+   "t": 1795687215
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+   "url": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
+   "t": 1795686041
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "可信 AI 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13VEFzVEtvNTdEeDE5amxJQmVhaGxSMlhVUHRqN1VSZTFRSVQ3YXZYTGFnWXFvNEh6bVdTTDJGVzhsamd0THM0WEFOSDFVRDAtSEFHRXFsZw?oc=5",
+   "t": 1795685891
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "合約負債 彙整",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zd2phNDVUMVV4ak5DMkI2dl9uYjNfd2hiT0dDV1c3WFltbUduc3FCR0hZOWZNeENhZDRFT3lua1lBcDA0a1pZOHJ2TjZ4R3l3TDFoV2dSMGtiUnNQMmdHbHNXRnppbEZZYkIw?oc=5",
+   "t": 1795684091
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "預收款 彙整",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhRDE2MDRmUFQ2R1FMZDN6OGVTeHlZVU5vUXhObHpEdjJ3Rm5ERGpTSmMxSTZNcVVpNDN2S04tQUxRcDBwRmRLS3BidGJFVTUyYXQ5emt6bk4yWDlUNWFv?oc=5",
+   "t": 1795684090
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "記憶體大廠長約有用嗎？三星、SK 海力士財報「合約負債」見端倪",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Vb1d5bTVPdVc0VzFod3ExVHl6NDNBdG44YTdNcEZiY21SNHJZZUV4MnE2SDFPcS1OaVRtTnRaSHFUbzhOT0ZJYTdNUl8xQ1N6ZWxKOFJnZUVHaDNvcVFmOHFrT29mVEN1djdEMThkblhMaER5UUE?oc=5",
+   "t": 1795683092
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+   "t": 1795683046
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "LONDON MARKET OPEN: Stocks up as tech, tariff worries on back burner",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2dLQ20zTDdwRzJ1RTUyTjBUMHp1eTg1STNLN2tWVnhKZk8yenRkd0ZKQUhBTHFNNUpaU0ZxQWY4b1oxUkpVODBJVlJWRjUyMjF5S3ROZmY0RWg3VzByTzFQVjkwRXRkN2N4NEVZekR1UnlkZGZ5aS1laGhKZTBVeDhJWlktY1lHLXc2QXB0X3k3M3ZZQ1pka3dHczlmWmJIS04tN0s2cEU3Z1hHSFhxN1dhZ0JSX01WYlVURXEzWFp1SXpqQ0tKTldha1Y5UQ?oc=5",
+   "t": 1795682736
+  },
+  {
+   "src": "鏈新聞",
+   "cat": "crypto",
+   "title": "股權捐贈 彙整",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JRTVHdHRObldBNW9kTDZNWnE3TF82V19qZFkwSDVPUVJ1NFdVU3Z4NndTUG51d2lHVWpvbFFIUjlkcHJtM25iRzROZ0JfUnhIelpvWVhCUVNMMThEYi1tREFhVE93Z2hZUVlv?oc=5",
+   "t": 1795680607
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+   "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "t": 1795680093
+  },
+  {
+   "src": "CoinDesk",
+   "cat": "crypto",
+   "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
+   "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+   "t": 1795676965
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+   "t": 1795674600
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+   "t": 1795671900
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+   "t": 1795670171
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+   "t": 1795662181
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+   "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+   "t": 1795659763
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股收盤| 一度跌逾4%！納指低開高走收跌0.6%，道指抹去千點跌幅轉漲；英偉達跌近4%領跌費半；黃金持穩3600附近，比特幣站上6萬",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHlncXhlNHp3QktjNUkyWTZlR3VQSkpMQVEzMWRCNGtlQVdvNThzcGQzVS1kRDhkYWlweS1wV1hoeUROcXg1UXJOektWMlN3Mmd3UGFXZ3M1NjFmVXZoUmNZZUV1MERGWlhPNktvanNLbGdTQmJxN3ZZTEd3RUxsZ3kyWVZFYUhrd01JUm9qWl81dw?oc=5",
+   "t": 1795648175
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Vivakor Announces 1-for-15 Reverse Stock Split",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGNRaXY5S1FjMVFUXzVvckQyUUJFU21nRUZnS1FLUWlwZXVkRVdVUzBlak9kYXZwUjNseXRGU3JxNjNCSVdKb1VhM2xISGlwOHRLUVUyc1FwMGFNcWwta1pkUGZtd1NTcE5lNlU3VjgxaXAtc2FzLXZtVGVadEU1c2N4a2dQbUZoM1QwUFNaRjA4LWhPbGVtbEc4ZjNYLXNTc196Rg?oc=5",
+   "t": 1795648080
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "China's Google Just Released Its Fast New AI Model for Free",
+   "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+   "t": 1795646289
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+   "t": 1795645202
+  },
+  {
+   "src": "Decrypt",
+   "cat": "crypto",
+   "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+   "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+   "t": 1795643162
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股收盤：道指轉漲 芯片股繼續調整 英偉達跌近4%",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUVmV3lPOENaMlEwSWJXYjVSTzdYamEzM2FYcWpCdVVNZENHYzhIdHh3SXFGYlUwQUR0dXJRVUJCUEJJZm9YdHNMMkN0aHlfVmZteTFHLVY5bjhfREEtU2ZFU3o1bHg1R2NjQ1dLaUtHTGkwV2oxWE43dW1iQnN2WkZDeHZfbHBBYnhFM1pxVE9oc2dDaHRiS291amNCUFBKcUpZVg?oc=5",
+   "t": 1795640645
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Did You Lose Money on American Resources Corporation Stock? The Law Offices of Howard G. Smith Announces Securities Fraud Investigation After 29.81% Share Price Decline",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNV0dRZjVxUVdrZnE0QmVpNWpILUJrNE9lTkRDaGVCRnl5TnVaMkVqeDU3aEJCblVBLWwzTTJ0em8wVXYwSkZ3NUxKTF9JaU15cG5mVEE4Y0JIS096U2J0NE41YkNNd0dGS1JUTlpNX0xjbnI5dGlOSk9iYlB4WTN4Nkh4ZWZUYTFZTWR6X0VhNHpsVVh2ZF80TWJRNmFKLV9BVlc0OXlfSU9OT1FadURVemVHQ2Zfbk41NEM5MUVqNVBMS0x0U3JmcTdPSFAyRnZiazQ3bHhGRmo2TlBaTkZSSnhySWQ3QkxjVG90Q0phUlBiMHowb1JBbXFhNnZ3ZWNKTE1nNFNFVHZta1ZFQUtYU3hVdmRMRV9qTWF6Mk5veU1Pa2sta3BqcVAtWG9DczdOMUdfbF94VXdSc1dhdmpCOTBDVzJ6VkhvTlE?oc=5",
+   "t": 1795639440
+  },
+  {
+   "src": "The Block",
+   "cat": "crypto",
+   "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+   "t": 1795635430
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "現貨黃金反彈130美元轉漲 美股金銀走出超級V型行情",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU95YUMya2E4SXZVZUowbnFURVpLWHQtNU5pcHU1NDVYeHBpOFFMZHJsNEpyOXJTLWw3Y1NBVXd6WkczcVNScGpHRzVZWlJyam1INUtxVDRDcFNEVEJReEJmWllJVWtha1dRWC1NMmJpbzZYa0tDMExwRjBKWFBHUW15TUo1LVRMeUpUdEt2OUhXSEt1UlBCdWgxMjM?oc=5",
+   "t": 1795634289
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "銀彈救市創紀錄 國家隊豪砸1,359億元護台股 錢從哪裡來？",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RGJIS0ZIU3h6YTR1bmg3MnV6bDVYR3RhM3ljQUdtTEN1VUJlc084Ym9qR1AzMlE3eGNOc1dOWll1N0s5SEdSSzhEdmJQZ3R5eFVpUlNRUW01bi1PcjNv?oc=5",
+   "t": 1795633200
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "援兵到！庫藏股自救名單一波波霖宏申請二次買回- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SMWZmdmRmU25IaFdFLWFLTnREMjZLM1hxM2hmRHNESFRaeHhqcHlwRklKUFJkZFJJRnV2RGFkaDB1U01jV2RfOWNkZWU5QWlENEFHaWdRNnFCZERyNnNj?oc=5",
+   "t": 1795633200
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Kanzhun Gains on $500 Million Stock-Buyback Program",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX050NWJfb0xjM1NfWjY5b1ZfSTU5S2pOaU1ERnNkYkxxM2ZWdFh1aG82YmdNNDUzZXZkeTFPd3ZnR2trTUdfb1BIanFLcGdlbFZ2NWFFck1RZ242UWtNaFV6dkZuQ0N2YVIwN0RKVGJWRWpwV0FWbWlzWHVKaC1NRzFqX0hYRVhNc2N0ZXpYM1BLdmRnSHVKVFRiVUJ2OFREdEpjaXJUTmxKdw?oc=5",
+   "t": 1795627140
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "Where to Invest in Emerging Market Stocks Beyond the AI Boom",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbk8tSU54V1pUdzl2TGhvUVF3SkYxc0psQk9nWkVPSGczcXVELW00Qnd0dEFkUU1CQ1I4SkhMWkdmTWVZUG9YZk1OeXBIdFNlRHFBRklkVnpEOXVzLWRuTURvRHVXOHJ3b29kSF9Wbk92NXFVeFRMOHdmRGQxSGkweGMtb0FtYW9CS0NQZjZ6SkgwcE4wcEx5cU81WQ?oc=5",
+   "t": 1795618821
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "英偉達跌成美股「七巨頭」最便宜！黃仁勳回歸狂歡迅速消退，下週又將迎國會聽證大考",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1V3V002TmdpdGozX01yQmJQcl9iTW9MS3Vwa0hhU1N4WFo2NlBEeERHcl9OYWZ1VHJIZDNSb1FveVQ0VXY5dlRJa1UwQVlzLTZJRkFNU0dfOExLQnNUNW5sVF8yYlExTUxNYll0VlhzWDhLd3lpYlRrY0tZVXl0QnN0aXF2RUUxMXJuNG9KTGs2eV9tVUFsYmJBU2d5Zw?oc=5",
+   "t": 1795612200
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股深陷調整擋不住華爾街看多！德銀喊出標普500明年底9000點，AI盈利仍是關鍵",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0RyUGdWenpmWFJkRllCRlRwR2VTRU4xSHdkSTNsdmNnMldpMVNiVDgwdTdtNGVtWFRHLXpSY3gzam1tVjVsTGQ3OFNhYmQxNWxaekljc3I4NDNHOFhqRDNxYzRnZ0Y1NTJwTkU4enIxTE5uRmRTRnBfU3BaZHFZUzNMb19PTml0N2lFZUdtTmRCbXVBNGc?oc=5",
+   "t": 1795606200
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "This Gold-Rated Vanguard Global Stock Fund Is a Solid Choice",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlFpOFI3NzlUeTZWVVJsMjcxVENrdG5JbTktQjlhdXF4Vi1LSjdBdUFxb28yajBaMjRQOTlBdmxmZXZGMXNoODZWa2VQajM1clBXcG1ET2FObTliSS1vZjhlVlNwYUtOQ2xlOW5wY0Vvb19yZy02UFNxZmtjWnkzMkE4Z1NfRU04TzE0S04yQnU0a0h4XzZIRVo3bUpyTkJycjJF?oc=5",
+   "t": 1795605340
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "熱門板塊速睇：美股盤前半導體精選走勢疲弱，美國超微公司領跌",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrOFhqX2JBS0FYcWhJczI5Uk1vVjhPSmhtQksyZEhrbF85LTMwWU9SdDhtcUU4MkhOVkxKcGd1c0UyNlBxZDh4S0RBYURKejBkN3ZCaw?oc=5",
+   "t": 1795600200
+  },
+  {
+   "src": "Morningstar",
+   "cat": "us",
+   "title": "CrowdStrike Earnings: AI-Induced Demand Drives a Record Quarter; Firm Announces Zscaler Deal",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUjlJTlJiWTBtc29mZGo2Wkl6eTdHYjdhRldPb0x4dW1tNVlpZFc4YWl6dHhjVlhGcTFZNHZld2lKMmY4QVdrcklTbU9oUGN5cTRHeENsRmNTcEV3NHV6al9vajMzenBVdFZ2bTltN1lidnpvWGRIRGhnN21tQnJXaGJUWExNcXZkNnB3c3NfYjh4d0JSNW0ySXJEc0I2S3FrbFRpRnlsQ21jMXFBNmFWTjk3NlZUS2Q0M2I2Ym45RC12bGh1dDNSXzFHVDE?oc=5",
+   "t": 1795599933
+  },
+  {
+   "src": "工商時報",
+   "cat": "tw",
+   "title": "記憶體股漲歸漲報價已現分歧DRAM明年續上行NAND恐現跌價壓力- 日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIOE9nQlBUQ29qTW9BOUF4b1hWU2pfSmU0SmRQYXJJYUxucXVZLUNydTdWVnFtdzNhUGxQcFJkVjhCTmtJRnVJN2NpV2lKWlVMcnZZTTZQOGxXMk5teGR3?oc=5",
+   "t": 1795546800
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股大漲後再度承壓！野村警告：機械性買盤無法消除AI交易結構性風險",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkVxakQxTDd0OFFBVmZoNkotdU5uekMxaVdYOFRieWpXWkp2SVlLZlNNSWJ6NktQR3JXVVJ1dWhTNHRHUkFjWkRCT1A3ano2S2hncTl0ajRuN1l2VUpUZHVKa3pzQ2V0TnZ3VTJPN2RWX0dKWV9jWmZSemk5NEhFR0d6VTRBZ1dreUZ2ZlVLRUk0R3ZWVDlqOV9yZWtRZW02SmtV?oc=5",
+   "t": 1795526580
+  },
+  {
+   "src": "富途牛牛",
+   "cat": "us",
+   "title": "美股盤前追蹤 | Insmed現升14.35%",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tbVhLdWJQMVlHZ0pYbWhwcU1ROUdMaUZsUWt2VDNWNDYtSkNadFNNbmc0aWhfZnY5UURYVGF6WFNFNllfcjdFa1ZuQ1d2WnFjWDhtYg?oc=5",
+   "t": 1795511100
+  }
+ ]
+}

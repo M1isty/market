@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1419">
+<title>法人買賣超</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="法人買賣超">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1 id="pageTitle">法人買賣超</h1>
+  <span id="appTag" class="tag" hidden>App</span>
+  <button id="openSettings" class="gear" aria-label="設定">⚙ 設定</button>
+  <button id="langBtn" class="gear lang" aria-label="Language">EN</button>
+</header>
+<div id="updateBar" class="updatebar" hidden></div>
+<div id="offlineBar" class="offlinebar" hidden></div>
+<div id="ptr" class="ptr" hidden></div>
+
+<main>
+  <!-- ===== 買賣超 ===== -->
+  <section id="view-stock" class="view active">
+    <div class="seg" id="segStockMode"><button data-v="flow" class="on">法人買賣超</button><button data-v="big">大戶持股</button></div>
+    <div id="flowPane">
+    <details id="ovBox" class="card ov" open><summary><b>大盤總覽</b> <span id="ovHead" class="zero"></span></summary><div id="ovBody"></div></details>
+    <div class="controls">
+      <div class="seg" id="segMarket" role="tablist" aria-label="市場">
+        <button data-v="twse" class="on">上市</button>
+        <button data-v="tpex">上櫃</button>
+      </div>
+      <div class="seg" id="segPeriod" role="tablist" aria-label="期間">
+        <button data-v="D" class="on">日</button>
+        <button data-v="W">週</button>
+        <button data-v="M">月</button>
+      </div>
+      <div class="daterow">
+        <button id="prevDay" class="icon" aria-label="往前">‹</button>
+        <input type="date" id="datePick" aria-label="日期">
+        <button id="nextDay" class="icon" aria-label="往後">›</button>
+      </div>
+      <div class="seg small" id="segFilter" aria-label="篩選">
+        <button data-v="buy" class="on">四大都買超</button>
+        <button data-v="sell">四大都賣超</button>
+        <button data-v="all">全部</button>
+      </div>
+      <input type="search" id="q" placeholder="搜尋代號或名稱" autocomplete="off">
+    </div>
+
+    <div id="status" class="status"></div>
+    <div class="tablewrap">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th data-k="c" class="l sticky">代號 / 名稱</th>
+            <th data-k="px" class="quote-col" hidden>報價</th>
+            <th data-k="f">外資</th>
+            <th data-k="t">投信</th>
+            <th data-k="ds">自營<br><small>自行</small></th>
+            <th data-k="dh">自營<br><small>避險</small></th>
+            <th data-k="tot" class="sorted">合計</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="note">單位：張（1 張＝1,000 股），紅色為買超、綠色為賣超。「四大」指外資（不含外資自營商）、投信、自營商自行買賣、自營商避險。資料來源：臺灣證券交易所、證券櫃檯買賣中心。</p>
+    </div>
+    <div id="bigPane" hidden>
+      <div class="controls">
+        <div class="seg" id="bigMarket"><button data-v="all" class="on">全部</button><button data-v="上市">上市</button><button data-v="上櫃">上櫃</button></div>
+        <select id="bigSort" aria-label="排序">
+          <option value="hi">400 張以上大戶比例最高</option><option value="hi1k">1000 張以上大戶比例最高</option><option value="lowsmall">散戶（50 張以下）比例最低</option>
+          <option value="up1">大戶週增加最多</option><option value="dn1">大戶週減少最多</option><option value="up4">大戶 4 週增加最多</option><option value="hdn">股東人數週減少最多（籌碼集中）</option>
+        </select>
+        <input type="search" id="bigQ" placeholder="搜尋代號或名稱" autocomplete="off">
+      </div>
+      <label class="chk etf"><input type="checkbox" id="bigEtf"> 含 ETF</label>
+      <div id="bigStatus" class="status"></div>
+      <div class="tablewrap">
+        <table id="bigTbl">
+          <thead><tr><th class="l sticky">代號 / 名稱</th><th>400張以上</th><th>週變化</th><th>4週變化</th><th>1000張以上</th><th>股東人數</th><th>人數週變化</th><th>50張以下</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="note">大戶＝持股 400 張以上的股東，數字為占集保庫存的比例（%），變化單位為百分點。股東人數減少、大戶比例上升，通常代表籌碼往大戶集中。每週五收盤後的集保資料，於週末更新。資料來源：臺灣集中保管結算所。</p>
+    </div>
+  </section>
+
+  <!-- ===== 週K分析 ===== -->
+  <section id="view-week" class="view">
+    <div class="controls wk">
+      <input type="search" id="wkCode" placeholder="股票代號，例如 2330" inputmode="numeric" autocomplete="off" aria-label="股票代號">
+      <select id="wkEnd" aria-label="結束年份"></select>
+      <select id="wkYears" aria-label="年數">
+        <option value="3">近 3 年</option><option value="5" selected>近 5 年</option>
+        <option value="10">近 10 年</option><option value="15">近 15 年</option><option value="20">近 20 年</option>
+      </select>
+      <button id="wkGo" class="go">分析</button>
+    </div>
+    <div id="wkStatus" class="status"></div>
+    <div id="wkOut" hidden>
+      <div class="seg small" id="wkUnit"><button data-v="W" class="on">週別</button><button data-v="M">月別</button></div>
+      <div class="seg small" id="wkMetric">
+        <button data-v="sum" class="on">漲跌次數總和</button><button data-v="avg">平均漲跌%</button>
+        <button data-v="win">上漲機率</button><button data-v="hi">年度高點</button><button data-v="lo">年度低點</button>
+      </div>
+      <div class="chartcard"><div id="wkTitle" class="charttitle"></div><div id="wkChart" class="chart"></div><div id="wkHint" class="note"></div></div>
+      <details class="rawbox"><summary>週 K 原始資料（<span id="wkCount"></span> 週）</summary>
+        <div class="rawtools"><button id="wkCsv">下載 CSV（可用 Excel 開啟）</button></div>
+        <div class="tablewrap"><table id="wkTbl"><thead><tr><th class="l">交易週別</th><th>交易日數</th><th>開盤</th><th>最高</th><th>最低</th><th>收盤</th><th>漲跌</th><th>漲跌%</th><th>漲跌分析</th></tr></thead><tbody></tbody></table></div>
+      </details>
+    </div>
+
+    <div class="chartcard" id="bsCard">
+      <div class="charttitle">法人每月買賣比例（上市，季節性）</div>
+      <div class="seg small" id="bsWho"><button data-v="f" class="on">外資</button><button data-v="l">本土法人</button></div>
+      <div id="bsBody" class="tablewrap heat"></div>
+      <p class="note">B-S 比例 =（買進金額 − 賣出金額）÷（買進金額 + 賣出金額）× 100。本土法人 = 投信 + 自營商（自行買賣與避險）。紅色為淨買、綠色為淨賣，顏色越深幅度越大。資料來源：臺灣證券交易所三大法人買賣金額統計表（月報）。</p>
+    </div>
+  </section>
+
+  <!-- ===== 新聞 ===== -->
+  <section id="view-news" class="view">
+    <div class="seg small" id="newsCat">
+      <button data-v="all" class="on">全部</button><button data-v="tw">台股</button><button data-v="us">美股國際</button><button data-v="crypto">加密貨幣</button>
+    </div>
+    <div id="newsBody" class="cards"></div>
+  </section>
+
+  <!-- ===== 機構觀點 ===== -->
+  <section id="view-insight" class="view">
+    <div id="insightBody" class="cards"></div>
+  </section>
+
+  <!-- ===== 貨幣 ===== -->
+  <section id="view-crypto" class="view">
+    <div class="seg" id="segMoney">
+      <button data-v="coin" class="on">加密貨幣</button><button data-v="fx">外匯</button><button data-v="metal">貴金屬</button>
+    </div>
+
+    <div id="moneyMk" hidden>
+      <div id="convBox" class="card conv">
+        <div class="convRow"><input type="number" id="cvAmt" value="100" min="0" inputmode="decimal" aria-label="金額"><select id="cvFrom" aria-label="從"></select></div>
+        <button id="cvSwap" class="swap" aria-label="對調">⇅</button>
+        <div class="convRow"><div id="cvOut" class="cvOut">–</div><select id="cvTo" aria-label="換成"></select></div>
+        <div class="convSrc"><span class="zero">匯率來源</span>
+          <select id="cvSrc"><option value="mid">國際中價</option><option value="spot">臺灣銀行 即期</option><option value="cash">臺灣銀行 現金</option></select></div>
+        <div id="cvNote" class="note"></div>
+      </div>
+      <div id="mkStatus" class="status"></div>
+      <div id="mkList" class="qlist"></div>
+      <div id="mkExtra"></div>
+    </div>
+
+    <div id="moneyCoin">
+      <div class="seg" id="segCoinSub"><button data-v="list" class="on">幣價行情</button><button data-v="dir">Blave 篩選</button></div>
+      <div id="blaveTeaser" class="teaser" hidden></div>
+      <div id="coinList">
+        <div class="controls">
+          <div class="seg small" id="segCrypto" aria-label="期間">
+            <button data-v="d" class="on">日 (24h)</button>
+            <button data-v="w">週 (7d)</button>
+            <button data-v="m">月 (30d)</button>
+          </div>
+          <div class="seg small" id="segCryptoSort" aria-label="排序">
+            <button data-v="cap" class="on">市值排序</button>
+            <button data-v="up">漲幅排序</button>
+            <button data-v="down">跌幅排序</button>
+          </div>
+        </div>
+        <div id="cryptoStatus" class="status"></div>
+        <div class="tablewrap">
+          <table id="ctbl">
+            <thead><tr><th class="l sticky">幣種</th><th>價格 (USD)</th><th id="cChgHead">24h</th><th>24h 成交量</th><th>市值</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="note">市值前 100 大，資料來源：CoinGecko。</p>
+      </div>
+      <div id="moneyDir" class="cards" hidden></div>
+    </div>
+    <p class="note">以上僅為行情資訊，不構成投資建議。</p>
+  </section>
+</main>
+
+<nav class="bottom">
+  <button data-view="stock" class="on"><span>📊</span>買賣超</button>
+  <button data-view="week"><span>📈</span>週K分析</button>
+  <button data-view="insight"><span>🏦</span>機構觀點</button>
+  <button data-view="news"><span>📰</span>新聞</button>
+  <button data-view="crypto"><span>💱</span>貨幣</button>
+</nav>
+
+<dialog id="settings">
+  <form method="dialog">
+    <h2>買賣超顯示設定</h2>
+    <p class="note">設定門檻後，只顯示外資、投信買賣超達到門檻的股票（0 表示不限制）。「四大都買超」看買超、「四大都賣超」看賣超、「全部」看買或賣超的絕對值。</p>
+    <label>外資至少 <input type="number" id="setF" min="0" step="100" inputmode="numeric"> 張</label>
+    <label>投信至少 <input type="number" id="setT" min="0" step="50" inputmode="numeric"> 張</label>
+    <div class="quick">
+      <button type="button" data-f="0" data-t="0">全部（不限制）</button>
+      <button type="button" data-f="500" data-t="100">外資 500／投信 100</button>
+      <button type="button" data-f="1000" data-t="300">外資 1000／投信 300</button>
+      <button type="button" data-f="3000" data-t="1000">外資 3000／投信 1000</button>
+    </div>
+    <fieldset id="notifyBox" class="notify" hidden>
+      <legend>每日收盤通知</legend>
+      <label class="chk"><input type="checkbox" id="setNotify"> 收盤後通知四大都買超（套用上方門檻）</label>
+      <button type="button" id="testNotify" class="sec2">立即測試</button>
+      <p class="note" id="notifyMsg">平日約 17:00 後檢查一次；手機省電模式可能會延後通知。</p>
+    </fieldset>
+    <div class="dlgbtns"><button value="cancel" class="sec">取消</button><button value="ok" id="setOk">套用</button></div>
+  </form>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
